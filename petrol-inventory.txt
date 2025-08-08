@@ -1,2 +1,1 @@
-2025-08-07;588;Pénteken a napokban megszokottakhoz mérten ismét változatlan marad a benzin nagykereskedelmi ára, a gázolaj ára továbbra is csökkenő tendenciát mutat, bruttó 2 forinttal kerül kevesebbe várhatóan holnaptól. A mai átlagárak az alábbiak szerint alakulnak (2025.08.07-én): 95-ös benzin: 588 Ft/liter Gázolaj: 604 Ft/liter
-2025-08-08;588;Szombaton mindkét üzemanyag típus nagykereskedelmi ára csökkenni fog. A benzin 3 forinttal, a gázolaj 4 forinttal lesz olcsóbb várhatóan, ha a kutak érvényesítik áraikban a csökkenés mértékét. A mai átlagárak az alábbiak szerint alakulnak (2025.08.08-án): 95-ös benzin: 588 Ft/liter Gázolaj: 602 Ft/liter
+[]
