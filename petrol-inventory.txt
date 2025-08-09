@@ -28,20 +28,20 @@
     "avg_price": 588,
     "gas_stations": {
       "shell": {
-        "type": "custom",
-        "price": 658.0
+        "type": "premium-benzin-e10",
+        "price": 623.9
       },
       "omv": {
         "type": "100-benzin-e5",
-        "price": 637.9
+        "price": 634.9
       },
       "mol": {
         "type": "100-benzin-e5",
-        "price": 641.0
+        "price": 638.0
       },
       "auchan": {
         "type": "100-benzin-e5",
-        "price": 607.0
+        "price": 602.0
       }
     }
   }
