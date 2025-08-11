@@ -1,5 +1,5 @@
 {
-  "text": "A hetet ismét a nagykereskedelmi üzemanyagárak csökkenésével kezdjük. Tovább esik a benzin és a gázolaj ára is, ezúttal azonos mértékben, bruttó 2-2 forinttal. A mai átlagárak az alábbiak szerint alakulnak (2025.08.11-én): 95-ös benzin: 585 Ft/liter Gázolaj: 596 Ft/liter",
+  "text": "A hetet ismét a nagykereskedelmi üzemanyagárak csökkenésével kezdjük. Tovább esik a benzin és a gázolaj ára is, ezúttal azonos mértékben, bruttó 2-2 forinttal. A mai átlagárak az alábbiak szerint alakulnak (2025.08.11-én): 95-ös benzin: 585 Ft/liter Gázolaj: 596 Ft/liter",
   "change": -3,
   "prices": [
     {
