@@ -1,5 +1,5 @@
 {
-  "text": "A héten szerdán nem változik a benzin és a gázolaj nagykereskedelmi ára. Ebből kiindulva várhatóan a kutakon sem változnak majd az árak. 2025.08.12-én az alábbi átlagárakon tankolhatunk: 95-ös benzin: 584 Ft/liter Gázolaj: 595 Ft/liter",
+  "text": "Csütörtökön a benzin nagykereskedelmi ára nem változik továbbra sem, a gázolaj ára csökken bruttó 3 forinttal. A mai átlagárak az alábbiak szerint alakulnak (2025.08.13-án): 95-ös benzin: 584 Ft/liter Gázolaj: 594 Ft/liter",
   "change": 0,
   "prices": [
     {
