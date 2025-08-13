@@ -641,6 +641,26 @@
         "type": "100-benzin-e5",
         "price": 599.0
       }
+    },
+    {
+      "date": "2025-08-14",
+      "average": 584,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 623.9
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 632.9
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 636.0
+      },
+      "auchan": {
+        "type": "100-benzin-e5",
+        "price": 599.0
+      }
     }
   ]
 }
