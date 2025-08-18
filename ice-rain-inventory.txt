@@ -1,4 +1,4 @@
 {
-  "level": -1,
+  "level": 0,
   "label": "0% a jég valószínűsége"
 }
