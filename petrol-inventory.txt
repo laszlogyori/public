@@ -727,11 +727,11 @@
       "average": 587,
       "shell": {
         "type": "premium-benzin-e10",
-        "price": 623.9
+        "price": 619.9
       },
       "omv": {
         "type": "100-benzin-e5",
-        "price": 632.9
+        "price": 631.9
       },
       "mol": {
         "type": "100-benzin-e5",
