@@ -46,7 +46,7 @@
   },
   {
     "name": "2026/D",
-    "bidPrice": 0.952676,
+    "bidPrice": 0.952556,
     "accruedInterest": 0.018082
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "name": "2027/B",
-    "bidPrice": 0.996,
+    "bidPrice": 0.995,
     "accruedInterest": 0.005056000000000001
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "name": "2027/A",
-    "bidPrice": 0.927512,
+    "bidPrice": 0.9273250000000001,
     "accruedInterest": 0.024329
   },
   {
@@ -136,7 +136,7 @@
   },
   {
     "name": "2028/B",
-    "bidPrice": 0.948401,
+    "bidPrice": 0.947955,
     "accruedInterest": 0.01837
   },
   {
@@ -181,7 +181,7 @@
   },
   {
     "name": "2028/A",
-    "bidPrice": 0.999679,
+    "bidPrice": 0.999123,
     "accruedInterest": 0.055664
   },
   {
@@ -201,7 +201,7 @@
   },
   {
     "name": "2029/A",
-    "bidPrice": 0.846678,
+    "bidPrice": 0.8460989999999999,
     "accruedInterest": 0.004822
   },
   {
@@ -216,7 +216,7 @@
   },
   {
     "name": "2029/C",
-    "bidPrice": 0.9704250000000001,
+    "bidPrice": 0.9700719999999999,
     "accruedInterest": 0.0032879999999999997
   },
   {
@@ -241,7 +241,7 @@
   },
   {
     "name": "2030/A",
-    "bidPrice": 0.84268,
+    "bidPrice": 0.841201,
     "accruedInterest": 0.0
   },
   {
@@ -266,12 +266,12 @@
   },
   {
     "name": "2031/B",
-    "bidPrice": 0.986456,
+    "bidPrice": 0.985048,
     "accruedInterest": 0.023115999999999998
   },
   {
     "name": "2031/A",
-    "bidPrice": 0.815166,
+    "bidPrice": 0.813879,
     "accruedInterest": 0.026801
   },
   {
@@ -286,7 +286,7 @@
   },
   {
     "name": "2032/G",
-    "bidPrice": 0.863221,
+    "bidPrice": 0.8622679999999999,
     "accruedInterest": 0.010356
   },
   {
@@ -296,7 +296,7 @@
   },
   {
     "name": "2032/A",
-    "bidPrice": 0.867245,
+    "bidPrice": 0.866236,
     "accruedInterest": 0.034877
   },
   {
@@ -306,12 +306,12 @@
   },
   {
     "name": "2033/A",
-    "bidPrice": 0.714781,
+    "bidPrice": 0.7138469999999999,
     "accruedInterest": 0.007459
   },
   {
     "name": "2034/A",
-    "bidPrice": 0.679165,
+    "bidPrice": 0.678163,
     "accruedInterest": 0.003575
   },
   {
@@ -321,7 +321,7 @@
   },
   {
     "name": "2035/A",
-    "bidPrice": 0.97583,
+    "bidPrice": 0.974453,
     "accruedInterest": 0.057342000000000004
   },
   {
@@ -331,7 +331,7 @@
   },
   {
     "name": "2041/A",
-    "bidPrice": 0.589577,
+    "bidPrice": 0.588938,
     "accruedInterest": 0.009534
   },
   {
