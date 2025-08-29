@@ -1,4 +1,4 @@
 {
-  "level": 3,
-  "label": "30% feletti a kisméretű jég valószínűsége"
+  "level": 0,
+  "label": "0% a kisméretű jég valószínűsége"
 }
