@@ -11,7 +11,7 @@
   },
   {
     "name": "Lidl (Madách)",
-    "available": 0,
+    "available": 1,
     "total": 1
   }
 ]
