@@ -1,6 +1,6 @@
 {
-  "text": "A héten kedden a gázolaj nagykereskedelmi ára emelkedik bruttó 2 forinttal. A benzinért a kutak nem fizetnek többet beszerzésükkor. A mai (2025.09.01-ei) átlagárak az alábbiak szerint alakulnak: 95-ös benzin: 592 Ft/liter Gázolaj: 595 Ft/liter Fenti gázolaj átlagár emelkedhet egy picit tovább keddtől.",
-  "change": 0,
+  "text": "A héten szerdától nem változnak az üzemanyag nagykereskedelmi árak. A benzin és a gázolaj beszerzési ára is változatlan marad. Ma az alábbi átlagárakon tankolhatunk, 2025.09.02-án: 95-ös benzin: 591 Ft/liter Gázolaj: 596 Ft/liter",
+  "change": -1,
   "prices": [
     {
       "date": "2025-07-13",
@@ -924,7 +924,7 @@
     },
     {
       "date": "2025-09-02",
-      "average": 592,
+      "average": 591,
       "shell": {
         "type": "premium-benzin-e10",
         "price": 627.9
