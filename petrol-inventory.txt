@@ -1,6 +1,6 @@
 {
   "text": "A héten szerdától nem változnak az üzemanyag nagykereskedelmi árak. A benzin és a gázolaj beszerzési ára is változatlan marad. Ma az alábbi átlagárakon tankolhatunk, 2025.09.02-án: 95-ös benzin: 591 Ft/liter Gázolaj: 596 Ft/liter",
-  "change": -1,
+  "change": 0,
   "prices": [
     {
       "date": "2025-07-13",
@@ -924,6 +924,26 @@
     },
     {
       "date": "2025-09-02",
+      "average": 591,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 626.9
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 640.9
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 642.0
+      },
+      "auchan": {
+        "type": "100-benzin-e5",
+        "price": 599.0
+      }
+    },
+    {
+      "date": "2025-09-03",
       "average": 591,
       "shell": {
         "type": "premium-benzin-e10",
