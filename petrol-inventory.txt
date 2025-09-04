@@ -1,5 +1,5 @@
 {
-  "text": "Holnap (2025.09.04-én) bruttó 2 forinttal emelkedik a gázolaj nagykereskedelmi ára, a benzin esetében az árak továbbra is változatlanok. Így a 95-ös benzin átlagára továbbra is 591 forint literenként, míg a gázolajat mai napon (2025.09.03-án) 594 forintos átlagáron tankolhatjuk.",
+  "text": "Péntektől emelkednek a nagykereskedelmi üzemanyagárak hazánkban. A benzin bruttó 3 forinttal, a gázolaj bruttó 2 forinttal kerül majd többe. A mai napon az alábbi átlagárakkal találkozhatunk a kutakon: 95-ös benzin: 591 Ft/liter Gázolaj: 593 Ft/liter",
   "change": 0,
   "prices": [
     {
