@@ -1,7 +1,7 @@
 [
   {
     "name": "E.ON (Aldi)",
-    "available": 2,
+    "available": 1,
     "total": 2
   }
 ]
