@@ -1,5 +1,5 @@
 {
-  "text": "Péntektől emelkednek a nagykereskedelmi üzemanyagárak hazánkban. A benzin bruttó 3 forinttal, a gázolaj bruttó 2 forinttal kerül majd többe. A mai napon az alábbi átlagárakkal találkozhatunk a kutakon: 95-ös benzin: 591 Ft/liter Gázolaj: 593 Ft/liter",
+  "text": "Szombaton nem várható ezúttal változás a nagykereskedelmi üzemanyagárakban. A benzin és a gázolaj ellenértéke sem csökken vagy emelkedik. A mai napon az alábbi átlagárakkal találkozhatunk a kutakon: 95-ös benzin: 591 Ft/liter Gázolaj: 592 Ft/liter",
   "change": 0,
   "prices": [
     {
@@ -991,11 +991,11 @@
       },
       "omv": {
         "type": "100-benzin-e5",
-        "price": 640.9
+        "price": 641.9
       },
       "mol": {
         "type": "100-benzin-e5",
-        "price": 641.0
+        "price": 642.0
       },
       "auchan": {
         "type": "100-benzin-e5",
