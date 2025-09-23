@@ -1,7 +1,7 @@
 [
   {
     "name": "E.ON (Aldi)",
-    "available": 1,
+    "available": 2,
     "total": 2
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "name": "Lidl (Madách)",
-    "available": 1,
+    "available": 0,
     "total": 1
   }
 ]
