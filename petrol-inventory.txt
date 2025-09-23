@@ -1,5 +1,5 @@
 {
-  "text": "Szerdán változnak a nagykereskedelmi üzemanyagárak a következők szerint: a benzin bruttó 2 forinttal, a gázolaj bruttó 3 forinttal kerül majd kevesebbe. Ma még az alábbi átlagárakkal találkozhatunk a kutakon: 95-ös benzin: 588 Ft/liter Gázolaj: 590 Ft/liter",
+  "text": "Szerdán változnak a nagykereskedelmi üzemanyagárak a következők szerint: a benzin bruttó 3 forinttal, a gázolaj bruttó 2 forinttal kerül majd kevesebbe. Ma még az alábbi átlagárakkal találkozhatunk a kutakon: 95-ös benzin: 588 Ft/liter Gázolaj: 590 Ft/liter",
   "change": 0,
   "prices": [
     {
