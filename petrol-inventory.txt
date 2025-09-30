@@ -991,7 +991,7 @@
       },
       "omv": {
         "type": "100-benzin-e5",
-        "price": 635.9
+        "price": 638.9
       },
       "mol": {
         "type": "100-benzin-e5",
