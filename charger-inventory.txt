@@ -6,11 +6,6 @@
   },
   {
     "name": "Lidl (Erdőkerülő)",
-    "available": 0,
-    "total": 1
-  },
-  {
-    "name": "Lidl (János)",
     "available": 1,
     "total": 1
   },
