@@ -1,27 +1,7 @@
 {
   "text": "Pénteken sem változnak a nagykereskedelmi árak a benzin és a gázolaj tekintetében sem. A kiskereskedelmi árakban azonban ma tapasztalhatunk változást a kutakon, jellemzően kisebb mértékű csökkenést. Ma a következő átlagárakkal találkozhatunk a kutakon: 95-ös benzin: 590 Ft/liter Gázolaj: 594 Ft/liter",
-  "change": -2,
+  "change": 0,
   "prices": [
-    {
-      "date": "2025-08-09",
-      "average": 588,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 623.9
-      },
-      "omv": {
-        "type": "100-benzin-e5",
-        "price": 634.9
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 638.0
-      },
-      "auchan": {
-        "type": "100-benzin-e5",
-        "price": 602.0
-      }
-    },
     {
       "date": "2025-08-10",
       "average": 588,
@@ -984,6 +964,26 @@
     },
     {
       "date": "2025-10-02",
+      "average": 590,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 626.9
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 635.9
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 641.0
+      },
+      "auchan": {
+        "type": "100-benzin-e5",
+        "price": 599.0
+      }
+    },
+    {
+      "date": "2025-10-03",
       "average": 590,
       "shell": {
         "type": "premium-benzin-e10",
