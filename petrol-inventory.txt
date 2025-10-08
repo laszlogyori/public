@@ -1,6 +1,6 @@
 {
-  "text": "A héten szerdán már csak a gázolaj nagykereskedelmi ára csökken bruttó 2 forinttal. A benzin beszerzési ára ezúttal nem változik. A tegnapi árcsökkenés után ma reggel az alábbi átlagárakon tankolhatunk: Átlagárak 2025.10.07-én: 95-ös benzin: 582 Ft/liter Gázolaj: 586 Ft/liter",
-  "change": 0,
+  "text": "Csütörtökön nem változnak a hazai nagykereskedelmi üzemanyagárak. Így a következő átlagárakra számíthatunk várhatóan holnap is, a maihoz hasonlóan: 95-ös benzin: 581 Ft/liter Gázolaj: 585 Ft/liter",
+  "change": -1,
   "prices": [
     {
       "date": "2025-08-15",
@@ -984,7 +984,7 @@
     },
     {
       "date": "2025-10-08",
-      "average": 582,
+      "average": 581,
       "shell": {
         "type": "premium-benzin-e10",
         "price": 610.9
