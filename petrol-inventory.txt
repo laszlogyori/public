@@ -987,7 +987,7 @@
       "average": 582,
       "shell": {
         "type": "premium-benzin-e10",
-        "price": 617.9
+        "price": 616.9
       },
       "omv": {
         "type": "100-benzin-e5",
