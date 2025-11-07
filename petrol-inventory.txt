@@ -1,5 +1,5 @@
 {
-  "text": "A héten pénteken sem változnak a hazai üzemanyag nagykereskedelmi árak. 2025.11.06-án az alábbi átlagárakon tankolhatunk: 95-ös benzin: 578 Ft/liter Gázolaj: 584 Ft/liter",
+  "text": "A hétvégén szombaton jelentősebb áremelkedésre számíthatunk a hazai benzinkutakon. A benzin nagykereskedelmi ára bruttó 4, a gázolaj beszerzési ára pedig bruttó 8 forinttal emelkedik holnaptól. 2025.11.07-én még az alábbi átlagárakon tankolhatunk: 95-ös benzin: 578 Ft/liter Gázolaj: 584 Ft/liter A fenti árak szombattól emelkedhetnek, amennyiben a kutakon is érvényesítik a nagykereskedelmi áremelést.",
   "change": 0,
   "prices": [
     {
