@@ -1,5 +1,5 @@
 {
-  "text": "A héten kedden tovább emelkedik a benzin és a gázolaj nagykereskedelmi ára is. Előbbi esetében bruttó 2 forintos emelkedésről beszélünk, míg a gázolaj esetében bruttó 5 forinttal nő a beszerzési ár. A hétvégi nagykerár emelés korlátozottan érvényesült a hazai kutakon, így a kiskereskedelmi átlagárak alig emelkedtek múlt hét óta, ezek a mai napon (2025.11.10-én) az alábbiak: 95-ös benzin: 577 Ft/liter Gázolaj: 585 Ft/liter",
+  "text": "A héten szerdán a benzin és a gázolaj nagykereskedelmi ára is változatlan marad. A mai (2025.11.11-ei) átlagárak az alábbiak szerint alakulnak: 95-ös benzin: 577 Ft/liter Gázolaj: 588 Ft/liter",
   "change": 0,
   "prices": [
     {
