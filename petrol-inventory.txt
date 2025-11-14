@@ -1,5 +1,5 @@
 {
-  "text": "Pénteken nem várható változás a nagykereskedelmi üzemanyagárakban. A benzin és a gázolaj ára is stagnál a tegnapi szinten. 2025.11.13-án a következő átlagárakon tankolhatunk: 95-ös benzin: 579 Ft/liter Gázolaj: 593 Ft/liter",
+  "text": "Szombaton sem változnak a nagykereskedelmi üzemanyagárak, a maihoz hasonló árakkal találkozhatunk holnap is. 2025.11.14-én a következő átlagárakon tankolhatunk: 95-ös benzin: 579 Ft/liter Gázolaj: 594 Ft/liter",
   "change": 0,
   "prices": [
     {
