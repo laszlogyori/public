@@ -795,7 +795,7 @@
       "average": 574,
       "shell": {
         "type": "premium-benzin-e10",
-        "price": 612.9
+        "price": 606.9
       },
       "mol": {
         "type": "100-benzin-e5",
