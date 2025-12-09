@@ -1,16 +1,16 @@
 [
   {
-    "name": "Lidl (Erdőkerülő)",
-    "available": 0,
-    "total": 1
+    "name": "E.ON (Aldi)",
+    "available": 2,
+    "total": 2
   },
   {
-    "name": "Lidl (János)",
+    "name": "Lidl (Erdőkerülő)",
     "available": 1,
     "total": 1
   },
   {
-    "name": "Lidl (Madách)",
+    "name": "Lidl (János)",
     "available": 1,
     "total": 1
   }
