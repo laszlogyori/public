@@ -1,27 +1,7 @@
 {
   "text": "Szerdától a benzin nagykereskedelmi ára nem változik, a gázolaj ára csökken bruttó 3 forinttal. A mai átlagárak a következők szerint alakulnak (2025.12.09-én): 95-ös benzin: 567 Ft/liter Gázolaj: 579 Ft/liter",
-  "change": -1,
+  "change": 0,
   "prices": [
-    {
-      "date": "2025-10-01",
-      "average": 592,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 626.9
-      },
-      "omv": {
-        "type": "100-benzin-e5",
-        "price": 638.9
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 643.0
-      },
-      "auchan": {
-        "type": "100-benzin-e5",
-        "price": 599.0
-      }
-    },
     {
       "date": "2025-10-02",
       "average": 590,
@@ -704,6 +684,18 @@
     },
     {
       "date": "2025-12-09",
+      "average": 567,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 601.9
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 617.0
+      }
+    },
+    {
+      "date": "2025-12-10",
       "average": 567,
       "shell": {
         "type": "premium-benzin-e10",
