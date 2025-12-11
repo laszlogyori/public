@@ -1,5 +1,5 @@
 {
-  "text": "Csütörtökön mindkét üzemanyag típus nagykereskedelmi ára csökken. A benzin bruttó 2 forinttal, a gázolaj bruttó 3 forinttal. A mai átlagárak a következők szerint alakulnak (2025.12.10-én): 95-ös benzin: 566 Ft/liter Gázolaj: 578 Ft/liter",
+  "text": "Pénteken nem változik sem a benzin, sem pedig a gázolaj beszerzési ára. A mai átlagárak a következők (2025.12.11-én): 95-ös benzin: 566 Ft/liter Gázolaj: 576 Ft/liter",
   "change": 0,
   "prices": [
     {
