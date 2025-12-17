@@ -1,6 +1,6 @@
 {
-  "text": "Jelentősen csökkennek szerdától az üzemanyag nagykereskedelmi árak. A benzin és a gázolaj beszerzési ára is 5-5 forinttal kerül majd kevesebbe. 2025.12.16-án az alábbi átlagárakon tankolhatunk a hazai kutakon: 95-ös benzin: 565 Ft/liter Gázolaj: 575 Ft/liter Fenti átlagárak csökkenhetnek tovább szerdától.",
-  "change": 0,
+  "text": "Holnaptól nem kell arra számítani, hogy változnak a hazai üzemanyagárak, ugyanis csütörtöktől a benzin és a gázolaj nagykereskedelmi ára is változatlan marad. A mai naptól az alábbi átlagárakon takolhatunk (2025.12.17-től): 95-ös benzin: 562 Ft/liter Gázolaj: 573 Ft/liter",
+  "change": -3,
   "prices": [
     {
       "date": "2025-10-09",
@@ -640,7 +640,7 @@
     },
     {
       "date": "2025-12-17",
-      "average": 565,
+      "average": 562,
       "shell": {
         "type": "premium-benzin-e10",
         "price": 601.9
