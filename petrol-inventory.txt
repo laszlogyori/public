@@ -1,6 +1,6 @@
 {
-  "text": "A hét második felében tovább csökkennek a hazai üzemanyagárak, ugyanis a benzin és a gázolaj beszerzési ára is bruttó 5-5 forinttal kerül majd kevesebbe péntektől. Ez leginkább a csökkenő Brent olaj árnak (4,5 éve volt utoljára 60 USD alatt és környékén a hordónkénti jegyzésár), és az erősödő forint árfolyamnak köszönhető. Ma (2025.12.18-án) még az alábbi átlagárakon tankolhatunk: 95-ös benzin: 562 Ft/liter Gázolaj: 572 Ft/liter Fenti átlagárak csökkenhetnek tovább az adventi hétvégén.",
-  "change": 0,
+  "text": "A hétvégén tovább csökken a benzin beszerzési ára bruttó 5 forinttal. A gázolaj nagykereskedelmi ára szombattól nem változik. A folyamatos árcsökkenéseknek köszönhetően a mai napon (2025.12.19-én) már az alábbi átlagárakon tankolhatunk: 95-ös benzin: 560 Ft/liter Gázolaj: 569 Ft/liter",
+  "change": -2,
   "prices": [
     {
       "date": "2025-10-11",
@@ -624,14 +624,14 @@
     },
     {
       "date": "2025-12-19",
-      "average": 562,
+      "average": 560,
       "shell": {
         "type": "premium-benzin-e10",
         "price": 596.9
       },
       "mol": {
         "type": "100-benzin-e5",
-        "price": 613.0
+        "price": 610.0
       }
     }
   ]
