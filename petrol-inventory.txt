@@ -1,5 +1,5 @@
 {
-  "text": "Kedden a benzin nagykereskedelmi ára nem változik, a gázolaj ára csökken bruttó 2 forinttal. A mai napon a következő átlagárakon tankolhatunk: 95-ös benzin: 556 Ft/liter Gázolaj: 569 Ft/liter",
+  "text": "December 24-én nem változnak a hazai nagykereskedelmi üzemanyagárak, sem a benzin, sem a gázolaj tekintetében. A mai napon a következő átlagárakon tankolhatunk (2025.12.23-án):95-ös benzin: 556 Ft/literGázolaj: 568 Ft/liter",
   "change": 0,
   "prices": [
     {
