@@ -3,18 +3,6 @@
   "change": 0,
   "prices": [
     {
-      "date": "2025-11-14",
-      "average": 579,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 616.9
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 630.0
-      }
-    },
-    {
       "date": "2025-11-15",
       "average": 579,
       "shell": {
@@ -592,6 +580,18 @@
     },
     {
       "date": "2026-01-02",
+      "average": 559,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 596.9
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 608.0
+      }
+    },
+    {
+      "date": "2026-01-03",
       "average": 559,
       "shell": {
         "type": "premium-benzin-e10",
