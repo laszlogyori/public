@@ -1,6 +1,6 @@
 {
-  "text": "A 2026-os év első napján is kell üzemanyagár változásra számítani. Az Új év árcsökkenéssel kezdődik: a benzin nagykereskedelmi ára bruttó 3, a gázolaj beszerzési ára pedig bruttó 4 forinttal csökken csütörtöktől. 2025.12.31-án az alábbi átlagárakon tankolhatunk: 95-ös benzin: 559 Ft/liter Gázolaj: 571 Ft/liter Fenti árak csökkenhetnek a hét második felében. BUÉK!",
-  "change": 0,
+  "text": "A benzin és a gázolaj nagykereskedelmi ára a héten kedden nem változik. Az alábbi átlagárakon tankolhatunk 2026.01.05-én és várhatóan másnap is: 95-ös benzin: 558 Ft/liter Gázolaj: 570 Ft/liter",
+  "change": -1,
   "prices": [
     {
       "date": "2025-11-17",
@@ -592,7 +592,7 @@
     },
     {
       "date": "2026-01-05",
-      "average": 559,
+      "average": 558,
       "shell": {
         "type": "premium-benzin-e10",
         "price": 596.9
