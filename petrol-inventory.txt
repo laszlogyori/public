@@ -1,19 +1,7 @@
 {
   "text": "A héten pénteken nem változnak az üzemanyag nagykereskedelmi árak. A heti árcsökkenés után az alábbi átlagárakon tankolhatunk ma, 2026.01.08-án: 95-ös benzin: 556 Ft/liter Gázolaj: 567 Ft/liter",
-  "change": -2,
+  "change": 0,
   "prices": [
-    {
-      "date": "2025-11-20",
-      "average": 579,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 616.9
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 629.0
-      }
-    },
     {
       "date": "2025-11-21",
       "average": 579,
@@ -600,6 +588,26 @@
     },
     {
       "date": "2026-01-08",
+      "average": 556,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 594.9
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 605.9
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 606.0
+      },
+      "auchan": {
+        "type": "100-benzin-e5",
+        "price": 569.0
+      }
+    },
+    {
+      "date": "2026-01-09",
       "average": 556,
       "shell": {
         "type": "premium-benzin-e10",
