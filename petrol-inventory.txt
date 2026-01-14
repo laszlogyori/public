@@ -659,7 +659,7 @@
       },
       "mol": {
         "type": "100-benzin-e5",
-        "price": 608.0
+        "price": 609.0
       },
       "auchan": {
         "type": "100-benzin-e5",
