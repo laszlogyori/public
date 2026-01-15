@@ -1,5 +1,5 @@
 {
-  "text": "Most csütörtökön a gázolaj nagykereskedelmi ára emelkedik, bruttó 3 forinttal, a benzin beszerzési ára változatlan marad. 2026.01.14-én az alábbi átlagárakon tankolhatunk: 95-ös benzin: 559 Ft/liter Gázolaj: 568 Ft/liter Fenti gázolaj átlagára emelkedhet holnaptól.",
+  "text": "Napról napra kúszik felfelé a benzin és a gázolaj ára is a héten, holnaptól mondhatni egy kicsit jelentősebben. A benzin nagykereskedelmi ára bruttó 5 forinttal, míg a gázolajé bruttó 6 forinttal kerül majd többe péntektől. Ez várhatóan a kutak eladási áraiban is érvényesülni fog. De ma (2026.01.15-én) még az alábbi átlagárakon tankolhatunk: 95-ös benzin: 559 Ft/liter Gázolaj: 571 Ft/liter",
   "change": 0,
   "prices": [
     {
