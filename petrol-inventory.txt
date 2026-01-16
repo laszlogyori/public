@@ -1,19 +1,7 @@
 {
   "text": "Szombaton nem változnak a nagykereskedelmi üzemanyagárak a hazai benzinkutakon. A mai áremelkedés után az alábbiak az átlagárak (2025.01.16-án): 95-ös benzin: 563 Ft/liter Gázolaj: 576 Ft/liter",
-  "change": 4,
+  "change": 0,
   "prices": [
-    {
-      "date": "2025-11-28",
-      "average": 573,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 606.9
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 623.0
-      }
-    },
     {
       "date": "2025-11-29",
       "average": 573,
@@ -664,6 +652,26 @@
     },
     {
       "date": "2026-01-16",
+      "average": 563,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 601.9
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 610.9
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 615.0
+      },
+      "auchan": {
+        "type": "100-benzin-e5",
+        "price": 577.0
+      }
+    },
+    {
+      "date": "2026-01-17",
       "average": 563,
       "shell": {
         "type": "premium-benzin-e10",
