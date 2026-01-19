@@ -1,5 +1,5 @@
 {
-  "text": "Szombaton nem változnak a nagykereskedelmi üzemanyagárak a hazai benzinkutakon. A mai áremelkedés után az alábbiak az átlagárak (2025.01.16-án): 95-ös benzin: 563 Ft/liter Gázolaj: 576 Ft/liter",
+  "text": "Megyünk felfelé, már ami a hazai üzemanyagárakat illeti. Ez leginkább a Brent olaj hordónkénti árnövekedésének köszönhető, ami mostanra újra 63-64 dollár környékén mozog. Sajnos a forint is gyengült a dollárral szemben, így holnaptól a benzin nagykereskedelmi ára bruttó 3, a gázolajé bruttó 5 forinttal kerül majd többe. 2026.01.19-én az alábbi átlagárakon tankolhatunk az itthoni benzinkutakon: 95-ös benzin: 563 Ft/liter Gázolaj: 575 Ft/liter Fenti árak emelkedhetnek tovább keddtő.",
   "change": 0,
   "prices": [
     {
