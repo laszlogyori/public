@@ -1,19 +1,7 @@
 {
   "text": "Szerdán nem emelkednek tovább a nagykereskedelmi üzemanyagárak, a gázolaj és a benzin ára is változatlan marad. A mai átlagárak a következők szerint alakulnak (2026.01.20-án): 95-ös benzin: 565 Ft/liter Gázolaj: 579 Ft/liter",
-  "change": 2,
+  "change": 0,
   "prices": [
-    {
-      "date": "2025-12-02",
-      "average": 572,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 606.9
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 621.0
-      }
-    },
     {
       "date": "2025-12-03",
       "average": 570,
@@ -696,6 +684,26 @@
     },
     {
       "date": "2026-01-20",
+      "average": 565,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 601.9
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 619.9
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 617.0
+      },
+      "auchan": {
+        "type": "100-benzin-e5",
+        "price": 580.0
+      }
+    },
+    {
+      "date": "2026-01-21",
       "average": 565,
       "shell": {
         "type": "premium-benzin-e10",
