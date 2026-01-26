@@ -749,10 +749,6 @@
         "type": "premium-benzin-e10",
         "price": 601.9
       },
-      "omv": {
-        "type": "100-benzin-e5",
-        "price": 618.9
-      },
       "mol": {
         "type": "100-benzin-e5",
         "price": 617.0
