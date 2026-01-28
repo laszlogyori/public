@@ -1,5 +1,5 @@
 {
-  "text": "Szerdán sem változnak a nagykereskedelmi árak a hazai benzinkutakon. A következő átlagárakon tankolhatunk ma és várhatóan holnap is: 95-ös benzin: 563 Ft/liter Gázolaj: 576 Ft/liter",
+  "text": "Nem változnak a nagykereskedelmi árak csütörtöktől sem, a benzint és a gázolajat is változatlan áron tankolhatjuk holnaptól is. A következő átlagárakkal találkozhatunk ma és várhatóan holnap is: 95-ös benzin: 563 Ft/liter Gázolaj: 576 Ft/liter",
   "change": 0,
   "prices": [
     {
