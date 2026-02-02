@@ -1,7 +1,1 @@
-[
-  {
-    "name": "E.ON (Aldi)",
-    "available": 0,
-    "total": 2
-  }
-]
+[]
