@@ -1,6 +1,6 @@
 {
-  "text": "Keddtől a benzin és a gázolaj nagykerára is változatlan marad. Attól függetlenül, hogy a nagykereskedelmi árak változatlanok, a kiskereskedelmi árak változhatnak, így történt ez a hétvégén is. Így az aktuális átlagárak a kutakon 2026.02.02-én: 95-ös benzin: 553 Ft/liter Gázolaj: 570 Ft/liter",
-  "change": 0,
+  "text": "Szerdán nem változnak a nagykereskedelmi üzemanyagárak a hazai benzinkutakon sem a benzin, sem a gázolaj tekintetében. A mai napon (2026.02.03-án) az alábbi átlagárakkal találkozhatunk: 95-ös benzin: 551 Ft/liter Gázolaj: 568 Ft/liter",
+  "change": -2,
   "prices": [
     {
       "date": "2025-12-16",
@@ -776,7 +776,7 @@
     },
     {
       "date": "2026-02-03",
-      "average": 553,
+      "average": 551,
       "shell": {
         "type": "premium-benzin-e10",
         "price": 596.9
