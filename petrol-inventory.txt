@@ -1,5 +1,5 @@
 {
-  "text": "A hétvégén sem kell üzemanyag nagykereskedelmi árváltozásra számítanunk, így a hazai kiskereskedelmi átlagárak az alábbiak szerint alakulnak: 2026.02.06-án és várhatóan a hétvégén is: 95-ös benzin: 557 Ft/liter Gázolaj: 574 Ft/liter",
+  "text": "Február 10-től sem változnak itthon az üzemanyag nagykereskedelmi árak. Az aktuális átlagárak (2026.02.09-én) az alábbiak: 95-ös benzin: 557 Ft/liter Gázolaj: 575 Ft/liter",
   "change": 0,
   "prices": [
     {
