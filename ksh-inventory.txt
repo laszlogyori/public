@@ -1,113 +1,5 @@
 [
   {
-    "date": "2021-01",
-    "food": 103.9,
-    "clothes": 97.9,
-    "consumables": 103.1,
-    "gas": 99.9,
-    "services": 101.7,
-    "total": 102.7
-  },
-  {
-    "date": "2021-02",
-    "food": 103.4,
-    "clothes": 98.4,
-    "consumables": 103.8,
-    "gas": 102.7,
-    "services": 101.7,
-    "total": 103.1
-  },
-  {
-    "date": "2021-03",
-    "food": 102.7,
-    "clothes": 98.2,
-    "consumables": 103.6,
-    "gas": 107.1,
-    "services": 101.3,
-    "total": 103.7
-  },
-  {
-    "date": "2021-04",
-    "food": 102.4,
-    "clothes": 99.8,
-    "consumables": 103.4,
-    "gas": 113.9,
-    "services": 102.0,
-    "total": 105.1
-  },
-  {
-    "date": "2021-05",
-    "food": 102.6,
-    "clothes": 101.0,
-    "consumables": 103.5,
-    "gas": 113.4,
-    "services": 102.1,
-    "total": 105.1
-  },
-  {
-    "date": "2021-06",
-    "food": 103.2,
-    "clothes": 101.2,
-    "consumables": 103.7,
-    "gas": 110.4,
-    "services": 103.8,
-    "total": 105.3
-  },
-  {
-    "date": "2021-07",
-    "food": 103.1,
-    "clothes": 99.8,
-    "consumables": 103.8,
-    "gas": 108.6,
-    "services": 102.9,
-    "total": 104.6
-  },
-  {
-    "date": "2021-08",
-    "food": 103.7,
-    "clothes": 100.5,
-    "consumables": 104.4,
-    "gas": 109.2,
-    "services": 102.8,
-    "total": 104.9
-  },
-  {
-    "date": "2021-09",
-    "food": 104.4,
-    "clothes": 100.5,
-    "consumables": 105.1,
-    "gas": 109.8,
-    "services": 103.2,
-    "total": 105.5
-  },
-  {
-    "date": "2021-10",
-    "food": 105.2,
-    "clothes": 100.9,
-    "consumables": 105.4,
-    "gas": 113.0,
-    "services": 103.7,
-    "total": 106.5
-  },
-  {
-    "date": "2021-11",
-    "food": 106.0,
-    "clothes": 101.8,
-    "consumables": 106.6,
-    "gas": 115.1,
-    "services": 104.6,
-    "total": 107.4
-  },
-  {
-    "date": "2021-12",
-    "food": 108.0,
-    "clothes": 102.8,
-    "consumables": 107.5,
-    "gas": 111.7,
-    "services": 105.0,
-    "total": 107.4
-  },
-  {
     "date": "2022-01",
     "food": 110.1,
     "clothes": 104.0,
@@ -538,5 +430,14 @@
     "gas": 97.6,
     "services": 106.8,
     "total": 103.3
+  },
+  {
+    "date": "2026-01",
+    "food": 101.3,
+    "clothes": 101.6,
+    "consumables": 102.9,
+    "gas": 96.5,
+    "services": 105.0,
+    "total": 102.1
   }
 ]
