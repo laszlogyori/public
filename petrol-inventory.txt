@@ -1,6 +1,6 @@
 {
-  "text": "Csütörtökön a benzin nagykereskedelmi ára nem változik, a gázolaj ára csökken bruttó 3 forinttal. A mai napi átlagárak a következők (2026.02.18-án): 95-ös benzin: 564 Ft/liter Gázolaj: 576 Ft/liter",
-  "change": 0,
+  "text": "Február 20-án nem változik a benzin és a gázolaj nagykereskedelmi ára. A ma érvényesített kiskereskedelmi árváltozások után a hazai átlagárak az alábbiak szerint alakulnak 2026.02.19-én: 95-ös benzin: 562 Ft/liter Gázolaj: 574 Ft/liter",
+  "change": -2,
   "prices": [
     {
       "date": "2026-01-01",
@@ -840,7 +840,7 @@
     },
     {
       "date": "2026-02-19",
-      "average": 564,
+      "average": 562,
       "shell": {
         "type": "premium-benzin-e10",
         "price": 596.9
