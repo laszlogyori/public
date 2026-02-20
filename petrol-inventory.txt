@@ -1,5 +1,5 @@
 {
-  "text": "Február 20-án nem változik a benzin és a gázolaj nagykereskedelmi ára. A ma érvényesített kiskereskedelmi árváltozások után a hazai átlagárak az alábbiak szerint alakulnak 2026.02.19-én: 95-ös benzin: 562 Ft/liter Gázolaj: 574 Ft/liter",
+  "text": "Szombaton a benzin ára nem változik várhatóan, a gázolaj nagykereskedelmi ára azonban emelkedik bruttó 3 forinttal. 2026.02.20-án a következő átlagárakon tankolhatunk: 95-ös benzin: 562 Ft/liter Gázolaj: 574 Ft/liter",
   "change": 0,
   "prices": [
     {
