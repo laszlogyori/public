@@ -1,6 +1,6 @@
 {
-  "text": "Szombaton a benzin ára nem változik várhatóan, a gázolaj nagykereskedelmi ára azonban emelkedik bruttó 3 forinttal. 2026.02.20-án a következő átlagárakon tankolhatunk: 95-ös benzin: 562 Ft/liter Gázolaj: 574 Ft/liter",
-  "change": 0,
+  "text": "Emelkednek kedden az üzemanyag nagykereskedelmi árak: a benzin esetében bruttó 4 forintos emelésre lehet számítani, míg a gázolaj ára bruttó 5 forinttal kerül majd többe. A múlt heti árváltozások után a mai napon (2026.02.23-án) az alábbi átlagárakon tankolhatunk: 95-ös benzin: 560 Ft/liter Gázolaj: 578 Ft/liter",
+  "change": -2,
   "prices": [
     {
       "date": "2026-01-05",
@@ -856,7 +856,7 @@
     },
     {
       "date": "2026-02-23",
-      "average": 562,
+      "average": 560,
       "shell": {
         "type": "premium-benzin-e10",
         "price": 596.9
