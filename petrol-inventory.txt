@@ -875,7 +875,7 @@
       },
       "auchan": {
         "type": "100-benzin-e5",
-        "price": 573.0
+        "price": 580.0
       }
     }
   ]
