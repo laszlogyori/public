@@ -1,27 +1,7 @@
 {
   "text": "Március 3-tól bruttó 5 forinttal emelkedik a gázolaj nagykereskedelmi ára, keddtől a benziné még nem változik. Várhatóan ez még csak a kezdet az üzemanyag áremelésben, köszönhetően az USA és Irán szombaton indult háborújának. A Brent olaj hordónkénti ára pillanatokon belül eléri a 80 USD szintet, ami akár jelentősen is emelkedhet tovább, ha eszkalálódik a helyzet a Közel-Keleten. 2026.03.02-án az alábbi átlagárakon tankolhatunk: 95-ös benzin: 565 Ft/liter Gázolaj: 590 Ft/liter",
-  "change": -2,
+  "change": 0,
   "prices": [
-    {
-      "date": "2026-01-12",
-      "average": 556,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 594.9
-      },
-      "omv": {
-        "type": "100-benzin-e5",
-        "price": 605.9
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 606.0
-      },
-      "auchan": {
-        "type": "100-benzin-e5",
-        "price": 569.0
-      }
-    },
     {
       "date": "2026-01-13",
       "average": 556,
@@ -848,6 +828,26 @@
     },
     {
       "date": "2026-03-02",
+      "average": 565,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 601.9
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 615.9
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 613.0
+      },
+      "auchan": {
+        "type": "100-benzin-e5",
+        "price": 583.0
+      }
+    },
+    {
+      "date": "2026-03-03",
       "average": 565,
       "shell": {
         "type": "premium-benzin-e10",
