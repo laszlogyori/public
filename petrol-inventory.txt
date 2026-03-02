@@ -1,6 +1,6 @@
 {
-  "text": "Szombaton nem változnak a nagykereskedelmi árak a benzinnél és a gázolajnál sem. A tegnapi emelés után ma (2026.02.27-én) a következő átlagárakon tankolhatunk: 95-ös benzin: 567 Ft/liter Gázolaj: 589 Ft/liter",
-  "change": 0,
+  "text": "Március 3-tól bruttó 5 forinttal emelkedik a gázolaj nagykereskedelmi ára, keddtől a benziné még nem változik. Várhatóan ez még csak a kezdet az üzemanyag áremelésben, köszönhetően az USA és Irán szombaton indult háborújának. A Brent olaj hordónkénti ára pillanatokon belül eléri a 80 USD szintet, ami akár jelentősen is emelkedhet tovább, ha eszkalálódik a helyzet a Közel-Keleten. 2026.03.02-án az alábbi átlagárakon tankolhatunk: 95-ös benzin: 565 Ft/liter Gázolaj: 590 Ft/liter",
+  "change": -2,
   "prices": [
     {
       "date": "2026-01-12",
@@ -848,7 +848,7 @@
     },
     {
       "date": "2026-03-02",
-      "average": 567,
+      "average": 565,
       "shell": {
         "type": "premium-benzin-e10",
         "price": 601.9
