@@ -1,6 +1,6 @@
 {
-  "text": "Intenzíven elindul az előrejelzett üzemanyagár emelés: szerdától a benzin nagykereskedelmi ára bruttó 5, a gázolajé bruttó 9 forinttal emelkedik majd. Ez köszönhető annak, hogy a Brent olaj jegyzésára 80 dollár felett van hordónként, a forint árfolyama pedig közelít a 330-hoz a dollárral szemben. 2026.03.03-án az alábbi átlagárakon tankolhatunk még: 95-ös benzin: 565 Ft/liter Gázolaj: 594 Ft/liter",
-  "change": 0,
+  "text": "Csütörtökön folytatódik az áremelkedés a hazai kutakon. A benzin nagykereskedelmi ára bruttó 5 forinttal, a gázolaj ára bruttó 8 forinttal kúszik feljebb. 2026.03.04-én az alábbi átlagárakon tankolhatunk: 95-ös benzin: 571 Ft/liter Gázolaj: 600 Ft/liter",
+  "change": 6,
   "prices": [
     {
       "date": "2026-01-14",
@@ -848,7 +848,7 @@
     },
     {
       "date": "2026-03-04",
-      "average": 565,
+      "average": 571,
       "shell": {
         "type": "premium-benzin-e10",
         "price": 606.9
