@@ -1,7 +1,1 @@
-[
-  {
-    "name": "Lidl (Madách)",
-    "available": 1,
-    "total": 1
-  }
-]
+[]
