@@ -1,27 +1,7 @@
 {
   "text": "A hétfői olajárrobbanás hatására keddtől tovább emelkednek a hazai üzemanyagárak. A Brent olaj hordónkénti ára egészen 120 dollárig emelkedett ma hajnalra, illetve a forint is rohamosan gyengül a dollárral szemben (jelenlegi árfolyam 343 HUF/USD). Mindennek hatására a benzin nagykereskedelmi ára bruttó 10, a gázolajé pedig bruttó 20 forinttal emelkedik holnaptól. Amennyiben ez a kutak áraiban is érvényesül kedd reggel, úgy a lenti (2026.03.09-ei) átlagárak jelentősen tovább emelkednek: 95-ös benzin: 585 Ft/liter Gázolaj: 629 Ft/liter",
-  "change": 7,
+  "change": 0,
   "prices": [
-    {
-      "date": "2026-01-19",
-      "average": 563,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 601.9
-      },
-      "omv": {
-        "type": "100-benzin-e5",
-        "price": 616.9
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 614.0
-      },
-      "auchan": {
-        "type": "100-benzin-e5",
-        "price": 577.0
-      }
-    },
     {
       "date": "2026-01-20",
       "average": 565,
@@ -848,6 +828,26 @@
     },
     {
       "date": "2026-03-09",
+      "average": 585,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 636.9
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 679.9
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 670.0
+      },
+      "auchan": {
+        "type": "100-benzin-e5",
+        "price": 607.0
+      }
+    },
+    {
+      "date": "2026-03-10",
       "average": 585,
       "shell": {
         "type": "premium-benzin-e10",
