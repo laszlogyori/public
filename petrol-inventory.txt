@@ -855,11 +855,11 @@
       },
       "omv": {
         "type": "100-benzin-e5",
-        "price": 679.9
+        "price": 680.9
       },
       "mol": {
         "type": "100-benzin-e5",
-        "price": 670.0
+        "price": 672.0
       },
       "auchan": {
         "type": "100-benzin-e5",
