@@ -1,6 +1,6 @@
 {
-  "text": "A hétfői olajárrobbanás hatására keddtől tovább emelkednek a hazai üzemanyagárak. A Brent olaj hordónkénti ára egészen 120 dollárig emelkedett ma hajnalra, illetve a forint is rohamosan gyengül a dollárral szemben (jelenlegi árfolyam 343 HUF/USD). Mindennek hatására a benzin nagykereskedelmi ára bruttó 10, a gázolajé pedig bruttó 20 forinttal emelkedik holnaptól. Amennyiben ez a kutak áraiban is érvényesül kedd reggel, úgy a lenti (2026.03.09-ei) átlagárak jelentősen tovább emelkednek: 95-ös benzin: 585 Ft/liter Gázolaj: 629 Ft/liter",
-  "change": 0,
+  "text": "2026. március 10-én védett ár került bevezetésre a benzin és a gázolaj esetében Magyarországon. A védett ár a 95-ös benzin esetében 595 Ft/liter, a gázolaj esetében 615 Ft/liter. Ennél a kutak nem értékesíthetik drágábban a terméket a magyar tankolók részére. Persze vannak kivételek a részletszabályozásban, illetve a hétfői Közlöny részletei még néhány pontban értelmezés alatt vannak. A MOL nagykereskedelmi árváltozást tedd közzé 2026.03.11-ei érvényességgel az alábbiak szerint: A 95-ös benzin ára bruttó 6, a gázolajé pedig bruttó 45 forinttal került többe. Nyilván ez a változás nem érinti a védett árakat, viszont a nagykereskedőket és a kiskereskedelmi árrést igen. Bízunk abban, hogy a Brent olaj árának csökkenése megjelenik a hazai árazásban is, és a védett ár rendszere működtethető lesz úgy, hogy a piaci szereplők sem realizálnak veszteségeket. Az események napról napra változnak, igyekszünk naprakészen információt szolgáltatni látogatóinknak.",
+  "change": 10,
   "prices": [
     {
       "date": "2026-01-21",
@@ -848,7 +848,7 @@
     },
     {
       "date": "2026-03-11",
-      "average": 585,
+      "average": 595,
       "shell": {
         "type": "premium-benzin-e10",
         "price": 636.9
