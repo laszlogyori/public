@@ -1,27 +1,7 @@
 {
   "text": "A héten pénteken emelkedik a 95-ös benzin és a 100-as benzin nagykereskedelmi ára bruttó 5-5 forinttal. Ez az árváltozás akkor érvényesülhet, ha piaci áron vásárolunk üzemanyagot (pl.: kannába vagy külföldi rendszámú autóba, stb.) Az aktuális piaci átlagárak a hazai töltőállomásokon az alábbiak 2026.03.12-én: 95-ös benzin: 622 Ft/liter Gázolaj: 649 Ft/liter A védett árak Magyarországon: 95-ös benzin: 595 Ft/liter Gázolaj: 615 Ft/liter",
-  "change": 27,
+  "change": 0,
   "prices": [
-    {
-      "date": "2026-01-22",
-      "average": 566,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 601.9
-      },
-      "omv": {
-        "type": "100-benzin-e5",
-        "price": 618.9
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 617.0
-      },
-      "auchan": {
-        "type": "100-benzin-e5",
-        "price": 580.0
-      }
-    },
     {
       "date": "2026-01-23",
       "average": 566,
@@ -848,6 +828,26 @@
     },
     {
       "date": "2026-03-12",
+      "average": 622,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 660.0
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 683.9
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 678.0
+      },
+      "auchan": {
+        "type": "100-benzin-e5",
+        "price": 665.0
+      }
+    },
+    {
+      "date": "2026-03-13",
       "average": 622,
       "shell": {
         "type": "premium-benzin-e10",
