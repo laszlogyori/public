@@ -1,5 +1,5 @@
 {
-  "text": "A héten kedden a benzin és a gázolaj nagykereskedelmi ára is emelkedik, előbbi bruttó 9, utóbbi bruttó 5 forinttal. Mindebből a tankolók csak akkor veszne észre változást a kutakon, ha kannába, vagy külföldi rendszámmal tankolnak, hiszen a védett árak továbbra is érvényesek a kutakon. Bár már több kúton van mennyiségi korlátozás, mint amelyiken nincs, nagy kérdés, hogy a védett áras rendszer mikor veszélyeztetni komolyabban az üzemanyag ellátást a kutakon. Az aktuális piaci árak 2026.03.16-án: 95-ös benzin: 634 Ft/liter Gázolaj: 593 Ft/liter Védett árak: 95-ös benzin: 595 Ft/liter Gázolaj: 615 Ft/liter",
+  "text": "A héten kedden a benzin és a gázolaj nagykereskedelmi ára is emelkedik, előbbi bruttó 9, utóbbi bruttó 5 forinttal. Mindebből a tankolók csak akkor veszne észre változást a kutakon, ha kannába, vagy külföldi rendszámmal tankolnak, hiszen a védett árak továbbra is érvényesek a kutakon. Bár már több kúton van mennyiségi korlátozás, mint amelyiken nincs, nagy kérdés, hogy a védett áras rendszer mikor veszélyeztetni komolyabban az üzemanyag ellátást a kutakon. Az aktuális piaci árak 2026.03.16-án: 95-ös benzin: 634 Ft/liter Gázolaj: 693 Ft/liter Védett árak: 95-ös benzin: 595 Ft/liter Gázolaj: 615 Ft/liter",
   "change": 8,
   "prices": [
     {
