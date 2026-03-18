@@ -1,6 +1,6 @@
 {
-  "text": "Tovább emelkedik a benzin és a gázolaj nagykereskedelmi ára. Szerdától ez a benzin esetében bruttó 5 forintot jelent, a gázolajnál pedig bruttó 3 forint az emelés mértéke. 2026.03.17-én a piaci átlagárak az alábbiak szerint alakulnak: 95-ös benzin: 643 Ft/liter Gázolaj: 699 Ft/liter A védett árakhoz képest a különbség tovább nő. A 95-ös benzin piaci ára már 48 forinttal magasabb, mint az 595 forintos benzin védett ára. A gázolaj piaci ára már 84 forinttal magasabb, mint a 615 forintos gázolaj védett ára.",
-  "change": 0,
+  "text": "Csütörtöktől ismét jelentős mértékben emelkednek a nagykereskedelmi árak. A benzin esetében bruttó 11 forintot, a gázolaj esetében pedig bruttó 15 forintot jelent ez. 2026.03.18-án a piaci átlagárak az alábbiak szerint alakulnak: 95-ös benzin: 648 Ft/liter Gázolaj: 703 Ft/liter Védett árak: 95-ös benzin: 595 Ft/liter Gázolaj: 615 Ft/liter",
+  "change": 5,
   "prices": [
     {
       "date": "2026-01-28",
@@ -856,7 +856,7 @@
     },
     {
       "date": "2026-03-18",
-      "average": 643,
+      "average": 648,
       "shell": {
         "type": "premium-benzin-e10",
         "price": 694.0
