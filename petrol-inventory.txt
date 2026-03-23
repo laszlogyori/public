@@ -1,23 +1,7 @@
 {
   "text": "Roham tempóban emelkednek még mindig a hazai üzemanyag nagykereskedelmi árak. A benzin literenként bruttó 6 forinttal kerül majd többe keddtől, míg a gázolaj beszerzési ára bruttó 18 forinttal emelkedik. A fenti emelkedő tendencia a piaci árakat érinti itthon, a védett árak továbbra is az alábbiak szerint alakulnak: 95-ös benzin védett ára: 595 Ft/liter Gázolaj védett ára: 615 Ft/liter 2026.03.23-án a piaci árak az alábbiak szerint alakulnak: 95-ös benzin: 678 Ft/liter, ami már 83 forinttal magasabb, mint a védett ár! Gázolaj: 749 Ft/liter ami már 134 forinttal magasabb, mint a védett ár! Sajnos a Közel-Keleti háborús helyzet nem halad jó irányba, így a bizonytalanság és a fegyveres fenyegetettség folyamatosan hajtja felfelé az olaj jegyzési árát. Jelen feltételek mellett a védett ár intézménye csak határozott ideig tartható fent, hiszen a stratégiai készletek itthon végesek. Piaci áron vásárolt olajból piaci áron lehet csak üzemanyagot értékesíteni itthon.",
-  "change": -75,
+  "change": 0,
   "prices": [
-    {
-      "date": "2026-02-02",
-      "average": 553,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 596.9
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 612.0
-      },
-      "auchan": {
-        "type": "100-benzin-e5",
-        "price": 579.0
-      }
-    },
     {
       "date": "2026-02-03",
       "average": 551,
@@ -876,6 +860,26 @@
     },
     {
       "date": "2026-03-23",
+      "average": 595,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 715.0
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 763.9
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 788.0
+      },
+      "auchan": {
+        "type": "100-benzin-e5",
+        "price": 699.0
+      }
+    },
+    {
+      "date": "2026-03-24",
       "average": 595,
       "shell": {
         "type": "premium-benzin-e10",
