@@ -1,6 +1,6 @@
 {
-  "text": "A hónap utolsó napján nem változnak a hazai nagykereskedelmi piaci árak. 2026.03.30-án a piaci átlagárak az alábbiak szerint alakulnak: 95-ös benzin: 690 Ft/literGázolaj: 784 Ft/literVédett árak: 95-ös benzin: 595 Ft/literGázolaj: 615 Ft/liter",
-  "change": 0,
+  "text": "A hónap első napján sem változnak a hazai nagykereskedelmi piaci árak. 2026.03.31-én a piaci átlagárak az alábbiak szerint alakulnak: 95-ös benzin: 691 Ft/literGázolaj: 785 Ft/literVédett árak: 95-ös benzin: 595 Ft/literGázolaj: 615 Ft/liter",
+  "change": 1,
   "prices": [
     {
       "date": "2026-02-10",
@@ -908,7 +908,7 @@
     },
     {
       "date": "2026-03-31",
-      "average": 690,
+      "average": 691,
       "shell": {
         "type": "premium-benzin-e10",
         "price": 734.0
