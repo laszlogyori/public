@@ -967,7 +967,7 @@
       },
       "omv": {
         "type": "100-benzin-e5",
-        "price": 751.9
+        "price": 738.9
       },
       "mol": {
         "type": "100-benzin-e5",
@@ -975,7 +975,7 @@
       },
       "auchan": {
         "type": "100-benzin-e5",
-        "price": 710.0
+        "price": 711.0
       }
     }
   ]
