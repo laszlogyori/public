@@ -1,23 +1,7 @@
 {
   "text": "Jelentős mértékű csökkenést tapasztalhatunk holnap a hazai benzinkutak nagykereskedelmi piaci áraiban. A benzin bruttó 8 forinttal, a gázolaj bruttó 24 forinttal kerül majd kevesebbe várhatóan. 2026.04.15-én a piaci átlagárak az alábbiak szerint alakulnak: 95-ös benzin: 686 Ft/literGázolaj: 772 Ft/literVédett árak: 95-ös benzin: 595 Ft/literGázolaj: 615 Ft/liter",
-  "change": -3,
+  "change": 0,
   "prices": [
-    {
-      "date": "2026-02-25",
-      "average": 566,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 603.9
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 617.0
-      },
-      "auchan": {
-        "type": "100-benzin-e5",
-        "price": 580.0
-      }
-    },
     {
       "date": "2026-02-26",
       "average": 565,
@@ -968,6 +952,26 @@
     },
     {
       "date": "2026-04-15",
+      "average": 686,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 724.0
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 761.9
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 756.0
+      },
+      "auchan": {
+        "type": "100-benzin-e5",
+        "price": 709.0
+      }
+    },
+    {
+      "date": "2026-04-16",
       "average": 686,
       "shell": {
         "type": "premium-benzin-e10",
