@@ -1,7 +1,7 @@
 [
   {
     "name": "2026/E",
-    "bidPrice": 0.999259,
+    "bidPrice": 0.9992650000000001,
     "accruedInterest": 0.014795
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "name": "2026/F",
-    "bidPrice": 0.9829340000000001,
+    "bidPrice": 0.983035,
     "accruedInterest": 0.009616
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "name": "2026/H",
-    "bidPrice": 1.013957,
+    "bidPrice": 1.013855,
     "accruedInterest": 0.046329
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "name": "2026/D",
-    "bidPrice": 0.976816,
+    "bidPrice": 0.977005,
     "accruedInterest": 0.00874
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "name": "2027/A",
-    "bidPrice": 0.951429,
+    "bidPrice": 0.952109,
     "accruedInterest": 0.014137
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "name": "2028/B",
-    "bidPrice": 0.964499,
+    "bidPrice": 0.965357,
     "accruedInterest": 0.0030819999999999997
   },
   {
@@ -166,7 +166,7 @@
   },
   {
     "name": "2028/A",
-    "bidPrice": 1.004422,
+    "bidPrice": 1.005557,
     "accruedInterest": 0.032733
   },
   {
@@ -186,7 +186,7 @@
   },
   {
     "name": "2029/A",
-    "bidPrice": 0.8767140000000001,
+    "bidPrice": 0.877963,
     "accruedInterest": 0.018027
   },
   {
@@ -201,7 +201,7 @@
   },
   {
     "name": "2029/C",
-    "bidPrice": 0.983266,
+    "bidPrice": 0.985442,
     "accruedInterest": 0.023014
   },
   {
@@ -226,7 +226,7 @@
   },
   {
     "name": "2030/A",
-    "bidPrice": 0.870882,
+    "bidPrice": 0.872571,
     "accruedInterest": 0.019644
   },
   {
@@ -271,7 +271,7 @@
   },
   {
     "name": "2031/B",
-    "bidPrice": 1.0101149999999999,
+    "bidPrice": 1.01187,
     "accruedInterest": 0.06768500000000001
   },
   {
@@ -281,7 +281,7 @@
   },
   {
     "name": "2031/A",
-    "bidPrice": 0.8534470000000001,
+    "bidPrice": 0.855086,
     "accruedInterest": 0.01576
   },
   {
@@ -296,7 +296,7 @@
   },
   {
     "name": "2032/G",
-    "bidPrice": 0.902973,
+    "bidPrice": 0.903896,
     "accruedInterest": 0.040068
   },
   {
@@ -306,7 +306,7 @@
   },
   {
     "name": "2032/A",
-    "bidPrice": 0.909999,
+    "bidPrice": 0.910493,
     "accruedInterest": 0.01874
   },
   {
@@ -316,12 +316,12 @@
   },
   {
     "name": "2033/A",
-    "bidPrice": 0.768381,
+    "bidPrice": 0.768849,
     "accruedInterest": 0.0
   },
   {
     "name": "2034/A",
-    "bidPrice": 0.738711,
+    "bidPrice": 0.7397450000000001,
     "accruedInterest": 0.018432
   },
   {
@@ -341,7 +341,7 @@
   },
   {
     "name": "2036/B",
-    "bidPrice": 0.987923,
+    "bidPrice": 0.987924,
     "accruedInterest": 0.016714
   },
   {
@@ -351,17 +351,17 @@
   },
   {
     "name": "2038/A",
-    "bidPrice": 0.709315,
+    "bidPrice": 0.707957,
     "accruedInterest": 0.014137
   },
   {
     "name": "2041/A",
-    "bidPrice": 0.673523,
+    "bidPrice": 0.6720579999999999,
     "accruedInterest": 0.029342
   },
   {
     "name": "2051/G",
-    "bidPrice": 0.692993,
+    "bidPrice": 0.68927,
     "accruedInterest": 0.038795
   }
 ]
