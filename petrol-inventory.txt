@@ -1,27 +1,7 @@
 {
   "text": "Még mindig csökkennek a hazai nagykereskedelmi árak, szerdától a benzin bruttó 5, a gázolaj bruttó 13 forinttal kerül majd kevesebbe. 2026.04.21-én az alábbi piaci átlagárakon tankolhatunk: 95-ös benzin: 667 Ft/liter Gázolaj: 717 Ft/liter A védett árakhoz képest a benzin piaci ára jelenleg 72 forinttal magasabb, a gázolaj piaci ára pedig 102 forinttal literenként. Ez a különbség tovább csökkenhet szerdától a fenti árcsökkenés érvényesítését követően.",
-  "change": -5,
+  "change": 0,
   "prices": [
-    {
-      "date": "2026-03-03",
-      "average": 565,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 596.9
-      },
-      "omv": {
-        "type": "100-benzin-e5",
-        "price": 615.9
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 615.0
-      },
-      "auchan": {
-        "type": "100-benzin-e5",
-        "price": 583.0
-      }
-    },
     {
       "date": "2026-03-04",
       "average": 571,
@@ -984,6 +964,26 @@
     },
     {
       "date": "2026-04-21",
+      "average": 667,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 705.0
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 748.9
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 737.0
+      },
+      "auchan": {
+        "type": "100-benzin-e5",
+        "price": 699.0
+      }
+    },
+    {
+      "date": "2026-04-22",
       "average": 667,
       "shell": {
         "type": "premium-benzin-e10",
