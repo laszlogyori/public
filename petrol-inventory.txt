@@ -987,19 +987,19 @@
       "average": 661,
       "shell": {
         "type": "premium-benzin-e10",
-        "price": 701.0
+        "price": 708.0
       },
       "omv": {
         "type": "100-benzin-e5",
-        "price": 737.9
+        "price": 744.9
       },
       "mol": {
         "type": "100-benzin-e5",
-        "price": 732.0
+        "price": 739.0
       },
       "auchan": {
         "type": "100-benzin-e5",
-        "price": 689.0
+        "price": 695.0
       }
     }
   ]
