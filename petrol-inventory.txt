@@ -1,27 +1,7 @@
 {
   "text": "Csütörtökön nem változnak a hazai nagykerekedelmi piaci árak. A benzin és a gázolaj ellenértéke is változatlan marad. 2026.05.06-án az alábbi piaci átlagárakra számíthatunk:95-ös benzin: 698 Ft/literGázolaj: 737 Ft/literVédett árak: 95-ös benzin: 595 Ft/literGázolaj: 615 Ft/liter",
-  "change": 2,
+  "change": 0,
   "prices": [
-    {
-      "date": "2026-03-18",
-      "average": 648,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 694.0
-      },
-      "omv": {
-        "type": "100-benzin-e5",
-        "price": 709.9
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 721.0
-      },
-      "auchan": {
-        "type": "100-benzin-e5",
-        "price": 654.0
-      }
-    },
     {
       "date": "2026-03-19",
       "average": 662,
@@ -984,6 +964,26 @@
     },
     {
       "date": "2026-05-06",
+      "average": 698,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 742.0
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 779.9
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 774.0
+      },
+      "auchan": {
+        "type": "100-benzin-e5",
+        "price": 709.0
+      }
+    },
+    {
+      "date": "2026-05-07",
       "average": 698,
       "shell": {
         "type": "premium-benzin-e10",
