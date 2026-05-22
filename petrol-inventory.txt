@@ -1,27 +1,7 @@
 {
-  "text": "Pénteken az elmúlt napok áremelkedése után nem változnak a hazai nagykereskedelmi piaci árak a kutakon. 2026.05.21-én a következők az átlagárak: 95-ös benzin: 698 Ft/literGázolaj: 710 Ft/literVédett árak: 95-ös benzin: 595 Ft/literGázolaj: 615 Ft/liter",
-  "change": 3,
+  "text": "A héten szombaton a benzin és a gázolaj nagykereskedelmi ára nem változik, így várhatóan a kiskereskedelmi piaci árakban sem lesz változás. Mai napon (2026.05.22-én) az alábbi átlagárakon tankolhatunk: 95-ös benzin: 698 Ft/liter Gázolaj 710 Ft/liter Jelenleg a benzin piaci ára 103 forinttal magasabb, mint az 595 forintos védett ár. A gázolaj esetében pedig 94 forintos különbségről beszélhetünk a 615 forintos védett árhoz viszonyítva.",
+  "change": 0,
   "prices": [
-    {
-      "date": "2026-04-02",
-      "average": 686,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 737.0
-      },
-      "omv": {
-        "type": "100-benzin-e5",
-        "price": 772.9
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 771.0
-      },
-      "auchan": {
-        "type": "100-benzin-e5",
-        "price": 708.0
-      }
-    },
     {
       "date": "2026-04-03",
       "average": 686,
@@ -984,6 +964,26 @@
     },
     {
       "date": "2026-05-21",
+      "average": 698,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 740.0
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 780.9
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 775.0
+      },
+      "auchan": {
+        "type": "100-benzin-e5",
+        "price": 715.0
+      }
+    },
+    {
+      "date": "2026-05-22",
       "average": 698,
       "shell": {
         "type": "premium-benzin-e10",
