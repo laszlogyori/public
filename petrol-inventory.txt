@@ -1,5 +1,5 @@
 {
-  "text": "A hónap elején folytatódik az árcsökkenés a hazai nagykereskedelmi piaci árakat illetően. A benzin és a gázolaj beszerzési ára azonos mértékben, bruttó 12 forinttal csökken. 2026.06.01-én az átlagárak az alábbiak: 95-ös benzin: 641 Ft/literGázolaj: 658 Ft/literVédett árak: 95-ös benzin: 595 Ft/literGázolaj: 615 Ft/liter",
+  "text": "Szerdán ezúttal nem változnak a hazai nagykeresedelmi piaci üzemanyagárak a korábbi napok csökkenő tendenciája után. 2026.06.02-án az átlagárak az alábbiak: 95-ös benzin: 641 Ft/literGázolaj: 661 Ft/literVédett árak: 95-ös benzin: 595 Ft/literGázolaj: 615 Ft/liter",
   "change": 0,
   "prices": [
     {
@@ -987,7 +987,7 @@
       "average": 641,
       "shell": {
         "type": "premium-benzin-e10",
-        "price": 696.0
+        "price": 678.0
       },
       "omv": {
         "type": "100-benzin-e5",
