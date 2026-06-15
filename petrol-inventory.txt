@@ -1,5 +1,5 @@
 {
-  "text": "Szombaton nem változik sem a benzin, sem a gázolaj beszerzési ára. Az olajpiacon azonban csökkenés látható, a Brent hordónkénti ára már 90 dollár alá került, ami a következő napok hazai árkilátásai szempontjából is kedvező fejlemény lehet. 2026.06.12-én az átlagárak az alábbiak:95-ös benzin: 641 Ft/literGázolaj: 671 Ft/literVédett árak: 95-ös benzin: 595 Ft/literGázolaj: 615 Ft/liter",
+  "text": "Kedden a benzin nagykereskedelmi piaci ára továbbra sem fog változni, a gázolaj ára csökken bruttó 7 forinttal. 2026.06.15-én az átlagárak az alábbiak:95-ös benzin: 641 Ft/literGázolaj: 671 Ft/literVédett árak: 95-ös benzin: 595 Ft/literGázolaj: 615 Ft/liter",
   "change": 0,
   "prices": [
     {
