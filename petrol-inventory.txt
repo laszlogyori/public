@@ -1,6 +1,6 @@
 {
-  "text": "Péntektől újabb, bruttó 7-7 forintos árcsökkentés érkezik a benzin és a gázolaj nagykereskedelmi árában. A héten bejelentett változások összességében már számottevő mérséklődést eredményeznek, különösen a gázolaj esetében. A kedvező folyamatok hátterében elsősorban a nemzetközi olajárak visszaesése áll, amely az elmúlt napokban folyamatos nyomást helyezett az üzemanyagárakra. 2026.06.18-án az átlagárak a következők:95-ös benzin: 627 Ft/literGázolaj: 639 Ft/literVédett árak: 95-ös benzin: 595 Ft/literGázolaj: 615 Ft/liter",
-  "change": 0,
+  "text": "Szombaton folytatódik a csökkenő tendencia a hazai benzinkutakon. A benzin nagykereskedelmi ára bruttó 7, a gázolaj bruttó 10 forinttal kerül majd kesevebbe. 2026.06.19-én az átlagárak a következők:95-ös benzin: 592 Ft/literGázolaj: 614 Ft/literVédett árak: 95-ös benzin: 595 Ft/literGázolaj: 615 Ft/liter",
+  "change": -35,
   "prices": [
     {
       "date": "2026-05-01",
@@ -984,7 +984,7 @@
     },
     {
       "date": "2026-06-19",
-      "average": 627,
+      "average": 592,
       "shell": {
         "type": "premium-benzin-e10",
         "price": 621.0
