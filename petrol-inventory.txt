@@ -1,5 +1,5 @@
 {
-  "text": "Szombattól sem a benzin, sem a gázolaj nagykereskedelmi ára nem változik. Bár az országos átlagárak már mindkét üzemanyagtípus esetében a védett szint alatt alakulnak, a védett ár hivatalosan továbbra is érvényben van. Ennek oka, hogy a kivezetéséről egyelőre nem jelent meg konkrét jogszabály és hatálybalépési időpont sem. Az átlagárak 2026.06.26-án az alábbiak: 95-ös benzin: 580 Ft/literGázolaj: 593 Ft/liter Védett árak: 95-ös benzin: 595 Ft/literGázolaj: 615 Ft/liter",
+  "text": "Keddtől sem a benzin, sem a gázolaj nagykereskedelmi ára nem változik. A piac egyelőre kivár, így az elmúlt hetek jelentős mozgásait követően most az árak stabilizálódása látszik. 2026.06.29-én az átlagárak a következők: 95-ös benzin: 580 Ft/literGázolaj: 593 Ft/liter",
   "change": 0,
   "prices": [
     {
@@ -999,7 +999,7 @@
       },
       "auchan": {
         "type": "100-benzin-e5",
-        "price": 619.0
+        "price": 622.0
       }
     }
   ]
