@@ -1,5 +1,5 @@
 {
-  "text": "Keddtől sem a benzin, sem a gázolaj nagykereskedelmi ára nem változik. A piac egyelőre kivár, így az elmúlt hetek jelentős mozgásait követően most az árak stabilizálódása látszik. 2026.06.29-én az átlagárak a következők: 95-ös benzin: 580 Ft/literGázolaj: 593 Ft/liter",
+  "text": "Szerdától változatlan marad a benzin és a gázolaj nagykereskedelmi ára. A közelmúlt jelentős árcsökkenései után egyelőre nem érkezett újabb korrekció, így stabil árak jellemzik a hazai üzemanyagpiacot. 2026.06.30-án az átlagárak az alábbiak: 95-ös benzin: 580 Ft/literGázolaj: 593 Ft/liter",
   "change": 0,
   "prices": [
     {
@@ -991,7 +991,7 @@
       },
       "omv": {
         "type": "100-benzin-e5",
-        "price": 667.0
+        "price": 658.0
       },
       "mol": {
         "type": "100-benzin-e5",
