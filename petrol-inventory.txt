@@ -1,5 +1,5 @@
 {
-  "text": "Szombattól nem változik sem a benzin, sem a gázolaj nagykereskedelmi ára. A hét eleji emeléseket követően egyelőre megállt az árak emelkedése, így a hétvégére stabil üzemanyagárakkal készülhetnek az autósok. A mai napon (2026.07.03-án) az országos átlagárak az alábbiak szerint alakulnak: 95-ös benzin: 582 Ft/literGázolaj: 595 Ft/liter",
+  "text": "Keddtől ismét emelkednek a nagykereskedelmi üzemanyagárak: a 95-ös benzin esetében bruttó 4 forinttal, míg a gázolajnál bruttó 6 forinttal kell többet fizetni, amennyiben a kutak érvényesítik a változást a kiskereskedelmi áraikban is. Az aktuális országos átlagárak a következők 2026.07.06-án: 95-ös benzin: 582 Ft/literGázolaj: 595 Ft/liter",
   "change": 0,
   "prices": [
     {
