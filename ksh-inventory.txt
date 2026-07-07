@@ -1,5 +1,545 @@
 [
   {
+    "date": "2017-01",
+    "food": 101.4,
+    "clothes": 101.0,
+    "consumables": 99.6,
+    "gas": 106.9,
+    "services": 101.4,
+    "total": 102.3
+  },
+  {
+    "date": "2017-02",
+    "food": 101.9,
+    "clothes": 100.6,
+    "consumables": 99.6,
+    "gas": 108.7,
+    "services": 101.5,
+    "total": 102.9
+  },
+  {
+    "date": "2017-03",
+    "food": 102.2,
+    "clothes": 100.5,
+    "consumables": 99.4,
+    "gas": 107.6,
+    "services": 101.6,
+    "total": 102.7
+  },
+  {
+    "date": "2017-04",
+    "food": 101.9,
+    "clothes": 99.9,
+    "consumables": 99.4,
+    "gas": 105.0,
+    "services": 101.7,
+    "total": 102.2
+  },
+  {
+    "date": "2017-05",
+    "food": 102.7,
+    "clothes": 100.4,
+    "consumables": 99.7,
+    "gas": 102.8,
+    "services": 101.5,
+    "total": 102.1
+  },
+  {
+    "date": "2017-06",
+    "food": 103.1,
+    "clothes": 100.2,
+    "consumables": 99.6,
+    "gas": 100.9,
+    "services": 101.4,
+    "total": 101.9
+  },
+  {
+    "date": "2017-07",
+    "food": 103.3,
+    "clothes": 100.1,
+    "consumables": 99.7,
+    "gas": 101.0,
+    "services": 101.8,
+    "total": 102.1
+  },
+  {
+    "date": "2017-08",
+    "food": 103.2,
+    "clothes": 100.3,
+    "consumables": 99.9,
+    "gas": 103.3,
+    "services": 101.8,
+    "total": 102.6
+  },
+  {
+    "date": "2017-09",
+    "food": 103.1,
+    "clothes": 101.1,
+    "consumables": 99.9,
+    "gas": 102.7,
+    "services": 101.8,
+    "total": 102.5
+  },
+  {
+    "date": "2017-10",
+    "food": 103.3,
+    "clothes": 100.3,
+    "consumables": 100.1,
+    "gas": 100.8,
+    "services": 101.6,
+    "total": 102.2
+  },
+  {
+    "date": "2017-11",
+    "food": 103.4,
+    "clothes": 100.5,
+    "consumables": 99.8,
+    "gas": 102.9,
+    "services": 101.0,
+    "total": 102.5
+  },
+  {
+    "date": "2017-12",
+    "food": 103.5,
+    "clothes": 100.5,
+    "consumables": 99.6,
+    "gas": 100.8,
+    "services": 101.1,
+    "total": 102.1
+  },
+  {
+    "date": "2018-01",
+    "food": 104.4,
+    "clothes": 100.2,
+    "consumables": 99.5,
+    "gas": 99.9,
+    "services": 100.8,
+    "total": 102.1
+  },
+  {
+    "date": "2018-02",
+    "food": 103.9,
+    "clothes": 99.7,
+    "consumables": 99.0,
+    "gas": 99.5,
+    "services": 101.0,
+    "total": 101.9
+  },
+  {
+    "date": "2018-03",
+    "food": 104.1,
+    "clothes": 100.3,
+    "consumables": 98.8,
+    "gas": 99.6,
+    "services": 101.1,
+    "total": 102.0
+  },
+  {
+    "date": "2018-04",
+    "food": 104.2,
+    "clothes": 101.3,
+    "consumables": 99.0,
+    "gas": 101.4,
+    "services": 101.0,
+    "total": 102.3
+  },
+  {
+    "date": "2018-05",
+    "food": 103.8,
+    "clothes": 100.8,
+    "consumables": 98.8,
+    "gas": 104.3,
+    "services": 101.7,
+    "total": 102.8
+  },
+  {
+    "date": "2018-06",
+    "food": 103.4,
+    "clothes": 100.6,
+    "consumables": 98.9,
+    "gas": 106.2,
+    "services": 101.6,
+    "total": 103.1
+  },
+  {
+    "date": "2018-07",
+    "food": 103.6,
+    "clothes": 100.7,
+    "consumables": 99.9,
+    "gas": 107.5,
+    "services": 101.6,
+    "total": 103.4
+  },
+  {
+    "date": "2018-08",
+    "food": 104.1,
+    "clothes": 100.0,
+    "consumables": 99.8,
+    "gas": 107.1,
+    "services": 101.7,
+    "total": 103.4
+  },
+  {
+    "date": "2018-09",
+    "food": 104.6,
+    "clothes": 100.4,
+    "consumables": 99.9,
+    "gas": 107.1,
+    "services": 101.8,
+    "total": 103.6
+  },
+  {
+    "date": "2018-10",
+    "food": 104.6,
+    "clothes": 100.8,
+    "consumables": 100.2,
+    "gas": 107.8,
+    "services": 101.9,
+    "total": 103.8
+  },
+  {
+    "date": "2018-11",
+    "food": 104.5,
+    "clothes": 100.9,
+    "consumables": 100.6,
+    "gas": 104.1,
+    "services": 102.2,
+    "total": 103.1
+  },
+  {
+    "date": "2018-12",
+    "food": 104.7,
+    "clothes": 100.7,
+    "consumables": 100.5,
+    "gas": 101.5,
+    "services": 102.3,
+    "total": 102.7
+  },
+  {
+    "date": "2019-01",
+    "food": 104.2,
+    "clothes": 101.5,
+    "consumables": 100.8,
+    "gas": 99.8,
+    "services": 102.8,
+    "total": 102.7
+  },
+  {
+    "date": "2019-02",
+    "food": 105.2,
+    "clothes": 102.1,
+    "consumables": 100.7,
+    "gas": 100.6,
+    "services": 102.7,
+    "total": 103.1
+  },
+  {
+    "date": "2019-03",
+    "food": 105.4,
+    "clothes": 101.1,
+    "consumables": 100.8,
+    "gas": 102.8,
+    "services": 103.0,
+    "total": 103.7
+  },
+  {
+    "date": "2019-04",
+    "food": 105.2,
+    "clothes": 100.4,
+    "consumables": 100.7,
+    "gas": 104.1,
+    "services": 103.0,
+    "total": 103.9
+  },
+  {
+    "date": "2019-05",
+    "food": 105.6,
+    "clothes": 100.7,
+    "consumables": 100.7,
+    "gas": 103.7,
+    "services": 103.0,
+    "total": 103.9
+  },
+  {
+    "date": "2019-06",
+    "food": 105.8,
+    "clothes": 101.0,
+    "consumables": 100.4,
+    "gas": 100.9,
+    "services": 103.1,
+    "total": 103.4
+  },
+  {
+    "date": "2019-07",
+    "food": 106.0,
+    "clothes": 101.9,
+    "consumables": 98.6,
+    "gas": 100.4,
+    "services": 102.8,
+    "total": 103.3
+  },
+  {
+    "date": "2019-08",
+    "food": 105.6,
+    "clothes": 101.8,
+    "consumables": 98.6,
+    "gas": 100.1,
+    "services": 102.8,
+    "total": 103.1
+  },
+  {
+    "date": "2019-09",
+    "food": 105.1,
+    "clothes": 100.6,
+    "consumables": 98.6,
+    "gas": 99.0,
+    "services": 103.4,
+    "total": 102.8
+  },
+  {
+    "date": "2019-10",
+    "food": 105.4,
+    "clothes": 100.6,
+    "consumables": 98.5,
+    "gas": 99.4,
+    "services": 103.3,
+    "total": 102.9
+  },
+  {
+    "date": "2019-11",
+    "food": 105.5,
+    "clothes": 100.3,
+    "consumables": 98.8,
+    "gas": 101.2,
+    "services": 103.4,
+    "total": 103.4
+  },
+  {
+    "date": "2019-12",
+    "food": 105.9,
+    "clothes": 100.4,
+    "consumables": 99.1,
+    "gas": 104.2,
+    "services": 103.2,
+    "total": 104.0
+  },
+  {
+    "date": "2020-01",
+    "food": 106.9,
+    "clothes": 100.3,
+    "consumables": 99.1,
+    "gas": 106.4,
+    "services": 103.6,
+    "total": 104.7
+  },
+  {
+    "date": "2020-02",
+    "food": 107.0,
+    "clothes": 100.7,
+    "consumables": 99.2,
+    "gas": 104.3,
+    "services": 103.8,
+    "total": 104.4
+  },
+  {
+    "date": "2020-03",
+    "food": 107.6,
+    "clothes": 100.9,
+    "consumables": 99.5,
+    "gas": 100.8,
+    "services": 103.8,
+    "total": 103.9
+  },
+  {
+    "date": "2020-04",
+    "food": 108.7,
+    "clothes": 100.2,
+    "consumables": 100.1,
+    "gas": 92.3,
+    "services": 103.0,
+    "total": 102.4
+  },
+  {
+    "date": "2020-05",
+    "food": 108.4,
+    "clothes": 98.9,
+    "consumables": 100.8,
+    "gas": 92.3,
+    "services": 102.6,
+    "total": 102.2
+  },
+  {
+    "date": "2020-06",
+    "food": 107.8,
+    "clothes": 99.0,
+    "consumables": 101.6,
+    "gas": 96.4,
+    "services": 102.5,
+    "total": 102.9
+  },
+  {
+    "date": "2020-07",
+    "food": 107.8,
+    "clothes": 100.7,
+    "consumables": 102.7,
+    "gas": 99.9,
+    "services": 103.4,
+    "total": 103.8
+  },
+  {
+    "date": "2020-08",
+    "food": 107.9,
+    "clothes": 100.9,
+    "consumables": 102.6,
+    "gas": 99.6,
+    "services": 103.5,
+    "total": 103.9
+  },
+  {
+    "date": "2020-09",
+    "food": 107.3,
+    "clothes": 100.6,
+    "consumables": 102.6,
+    "gas": 100.0,
+    "services": 102.4,
+    "total": 103.4
+  },
+  {
+    "date": "2020-10",
+    "food": 106.5,
+    "clothes": 99.5,
+    "consumables": 102.9,
+    "gas": 99.1,
+    "services": 102.4,
+    "total": 103.0
+  },
+  {
+    "date": "2020-11",
+    "food": 106.2,
+    "clothes": 99.0,
+    "consumables": 102.6,
+    "gas": 98.3,
+    "services": 101.9,
+    "total": 102.7
+  },
+  {
+    "date": "2020-12",
+    "food": 104.9,
+    "clothes": 98.5,
+    "consumables": 102.8,
+    "gas": 99.5,
+    "services": 101.7,
+    "total": 102.7
+  },
+  {
+    "date": "2021-01",
+    "food": 103.9,
+    "clothes": 97.9,
+    "consumables": 103.1,
+    "gas": 99.9,
+    "services": 101.7,
+    "total": 102.7
+  },
+  {
+    "date": "2021-02",
+    "food": 103.4,
+    "clothes": 98.4,
+    "consumables": 103.8,
+    "gas": 102.7,
+    "services": 101.7,
+    "total": 103.1
+  },
+  {
+    "date": "2021-03",
+    "food": 102.7,
+    "clothes": 98.2,
+    "consumables": 103.6,
+    "gas": 107.1,
+    "services": 101.3,
+    "total": 103.7
+  },
+  {
+    "date": "2021-04",
+    "food": 102.4,
+    "clothes": 99.8,
+    "consumables": 103.4,
+    "gas": 113.9,
+    "services": 102.0,
+    "total": 105.1
+  },
+  {
+    "date": "2021-05",
+    "food": 102.6,
+    "clothes": 101.0,
+    "consumables": 103.5,
+    "gas": 113.4,
+    "services": 102.1,
+    "total": 105.1
+  },
+  {
+    "date": "2021-06",
+    "food": 103.2,
+    "clothes": 101.2,
+    "consumables": 103.7,
+    "gas": 110.4,
+    "services": 103.8,
+    "total": 105.3
+  },
+  {
+    "date": "2021-07",
+    "food": 103.1,
+    "clothes": 99.8,
+    "consumables": 103.8,
+    "gas": 108.6,
+    "services": 102.9,
+    "total": 104.6
+  },
+  {
+    "date": "2021-08",
+    "food": 103.7,
+    "clothes": 100.5,
+    "consumables": 104.4,
+    "gas": 109.2,
+    "services": 102.8,
+    "total": 104.9
+  },
+  {
+    "date": "2021-09",
+    "food": 104.4,
+    "clothes": 100.5,
+    "consumables": 105.1,
+    "gas": 109.8,
+    "services": 103.2,
+    "total": 105.5
+  },
+  {
+    "date": "2021-10",
+    "food": 105.2,
+    "clothes": 100.9,
+    "consumables": 105.4,
+    "gas": 113.0,
+    "services": 103.7,
+    "total": 106.5
+  },
+  {
+    "date": "2021-11",
+    "food": 106.0,
+    "clothes": 101.8,
+    "consumables": 106.6,
+    "gas": 115.1,
+    "services": 104.6,
+    "total": 107.4
+  },
+  {
+    "date": "2021-12",
+    "food": 108.0,
+    "clothes": 102.8,
+    "consumables": 107.5,
+    "gas": 111.7,
+    "services": 105.0,
+    "total": 107.4
+  },
+  {
     "date": "2022-01",
     "food": 110.1,
     "clothes": 104.0,
@@ -475,5 +1015,14 @@
     "gas": 100.4,
     "services": 104.3,
     "total": 101.8
+  },
+  {
+    "date": "2026-06",
+    "food": 100.2,
+    "clothes": 101.4,
+    "consumables": 101.9,
+    "gas": 101.1,
+    "services": 104.0,
+    "total": 101.7
   }
 ]
