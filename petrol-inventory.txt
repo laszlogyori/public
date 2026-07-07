@@ -1,27 +1,7 @@
 {
   "text": "Szerdától csak a gázolaj nagykereskedelmi ára változik: bruttó 4 forinttal emelkedik, míg a benzin beszerzési ára változatlan marad. Ennek megfelelően elsősorban a dízelt tankolók számíthatnak árváltozásra a hazai töltőállomásokon. A mai országos átlagárak az alábbiak (2026.07.07-én): 95-ös benzin: 584 Ft/literGázolaj: 601 Ft/liter",
-  "change": 2,
+  "change": 0,
   "prices": [
-    {
-      "date": "2026-05-19",
-      "average": 691,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 735.0
-      },
-      "omv": {
-        "type": "100-benzin-e5",
-        "price": 772.9
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 767.0
-      },
-      "auchan": {
-        "type": "100-benzin-e5",
-        "price": 707.0
-      }
-    },
     {
       "date": "2026-05-20",
       "average": 695,
@@ -984,6 +964,26 @@
     },
     {
       "date": "2026-07-07",
+      "average": 584,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 626.0
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 663.0
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 660.0
+      },
+      "auchan": {
+        "type": "100-benzin-e5",
+        "price": 639.0
+      }
+    },
+    {
+      "date": "2026-07-08",
       "average": 584,
       "shell": {
         "type": "premium-benzin-e10",
