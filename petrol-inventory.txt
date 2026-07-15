@@ -1,27 +1,7 @@
 {
   "text": "Ezúttal nem módosulnak a nagykereskedelmi üzemanyagárak, így csütörtöktől a benzin és a gázolaj beszerzési ára is változatlan marad. A szerdai áremelést követően egyelőre nem érkezik újabb korrekció. A hazai töltőállomásokon jelenleg az alábbi országos átlagárakkal találkozhatnak az autósok (2026.07.15-én): 95-ös benzin: 595 Ft/liter Gázolaj: 613 Ft/liter",
-  "change": 8,
+  "change": 0,
   "prices": [
-    {
-      "date": "2026-05-27",
-      "average": 694,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 735.0
-      },
-      "omv": {
-        "type": "100-benzin-e5",
-        "price": 775.9
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 770.0
-      },
-      "auchan": {
-        "type": "100-benzin-e5",
-        "price": 710.0
-      }
-    },
     {
       "date": "2026-05-28",
       "average": 685,
@@ -980,6 +960,22 @@
     },
     {
       "date": "2026-07-15",
+      "average": 595,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 633.0
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 679.0
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 680.0
+      }
+    },
+    {
+      "date": "2026-07-16",
       "average": 595,
       "shell": {
         "type": "premium-benzin-e10",
