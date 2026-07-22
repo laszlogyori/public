@@ -1,5 +1,5 @@
 {
-  "text": "Szerdától újabb áremelés érkezik a nagykereskedelmi üzemanyagárakban: a 95-ös benzin ára bruttó 6 forinttal, a gázolajé pedig 9 forinttal emelkedik. A keddi nagykereskedelmi áremelésből ugyanakkor a kiskereskedelmi árakban egyelőre mindössze 1-1 forint jelent meg országos átlagban a mai napon. A mai országos átlagárak az alábbiak (2026.07.21-én): 95-ös benzin: 598 Ft/liter Gázolaj: 618 Ft/liter",
+  "text": "Csütörtökön újabb nagykereskedelmi áremelés érkezik: a 95-ös benzin ára bruttó 7 forinttal, a gázolajé pedig 9 forinttal emelkedik. A tegnapi nagykereskedelmi áremelés hatása a mai országos kiskereskedelmi átlagárakban egyelőre nem jelent meg a legtöbb benzinkútnál. A mai országos átlagárak jelenleg így alakulnak (2026.07.22-én): 95-ös benzin: 598 Ft/liter Gázolaj: 618 Ft/liter",
   "change": 0,
   "prices": [
     {
@@ -959,7 +959,7 @@
       },
       "omv": {
         "type": "100-benzin-e5",
-        "price": 686.0
+        "price": 680.0
       },
       "mol": {
         "type": "100-benzin-e5",
