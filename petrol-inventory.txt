@@ -1,27 +1,7 @@
 {
   "text": "A héten kedden tovább emelkedik a benzin és a gázolaj nagykereskedelmi ára is. Előbbi bruttó 2, utóbbi beszerzési ára bruttó 5 forinttal nő majd. Ez nem jelenti azt, hogy a kutak áraiban ez az emelkedés megjelenik, ugyanis az elmúlt két hét gyakorlata alapján, a MOL és a többi színes hálózat nem emelte meg a kisker árakat a nagykereskedelmi árváltozás mértékével. 2026.07.27-én az alábbi átlagárakon tankolhatunk a kutakon: 95-ös benzin: 598 Ft/liter Gázolaj: 619 Ft/liter",
-  "change": 1,
+  "change": 0,
   "prices": [
-    {
-      "date": "2026-06-08",
-      "average": 643,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 674.0
-      },
-      "omv": {
-        "type": "100-benzin-e5",
-        "price": 720.9
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 715.0
-      },
-      "auchan": {
-        "type": "100-benzin-e5",
-        "price": 675.0
-      }
-    },
     {
       "date": "2026-06-09",
       "average": 643,
@@ -932,6 +912,22 @@
     },
     {
       "date": "2026-07-27",
+      "average": 598,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 634.0
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 680.0
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 682.0
+      }
+    },
+    {
+      "date": "2026-07-28",
       "average": 598,
       "shell": {
         "type": "premium-benzin-e10",
