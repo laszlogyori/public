@@ -1,27 +1,7 @@
 {
   "text": "Tovább emelkedik augusztus 1-én a gázolaj nagykereskedelmi ára, most bruttó 6 forinttal. A benziné a hétvégén nem változik. Július utolsó napján az alábbi átlagárakon tankolhatunk: 95-ös benzin: 601 Ft/liter Gázolaj: 651 Ft/liter A bejelentett nagykereskedelmi árváltozás szinte teljesen érvényesítésre került a kiskereskedelmi árakban pénteken.",
-  "change": 2,
+  "change": 0,
   "prices": [
-    {
-      "date": "2026-06-12",
-      "average": 641,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 674.0
-      },
-      "omv": {
-        "type": "100-benzin-e5",
-        "price": 720.9
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 715.0
-      },
-      "auchan": {
-        "type": "100-benzin-e5",
-        "price": 675.0
-      }
-    },
     {
       "date": "2026-06-13",
       "average": 641,
@@ -916,6 +896,22 @@
     },
     {
       "date": "2026-07-31",
+      "average": 601,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 638.0
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 686.0
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 684.0
+      }
+    },
+    {
+      "date": "2026-08-01",
       "average": 601,
       "shell": {
         "type": "premium-benzin-e10",
