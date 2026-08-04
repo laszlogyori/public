@@ -1,27 +1,7 @@
 {
   "text": "Szerdától sem változik sem a benzin, sem a gázolaj nagykereskedelmi ára. A nagykereskedelmi árak most kivárnak, miközben a nemzetközi olajpiaci folyamatok továbbra is meghatározóak a következő napok áralakulása szempontjából. A jelenlegi országos átlagárak a következők: 95-ös benzin: 600 Ft/liter Gázolaj: 662 Ft/liter",
-  "change": -17,
+  "change": 0,
   "prices": [
-    {
-      "date": "2026-06-16",
-      "average": 640,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 674.0
-      },
-      "omv": {
-        "type": "100-benzin-e5",
-        "price": 720.9
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 715.0
-      },
-      "auchan": {
-        "type": "100-benzin-e5",
-        "price": 675.0
-      }
-    },
     {
       "date": "2026-06-17",
       "average": 635,
@@ -900,6 +880,22 @@
     },
     {
       "date": "2026-08-04",
+      "average": 600,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 637.0
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 689.0
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 684.0
+      }
+    },
+    {
+      "date": "2026-08-05",
       "average": 600,
       "shell": {
         "type": "premium-benzin-e10",
