@@ -76,7 +76,7 @@
   },
   {
     "name": "2027/A",
-    "bidPrice": 0.9707859999999999,
+    "bidPrice": 0.970674,
     "accruedInterest": 0.02326
   },
   {
@@ -111,7 +111,7 @@
   },
   {
     "name": "2028/B",
-    "bidPrice": 0.982446,
+    "bidPrice": 0.9821469999999999,
     "accruedInterest": 0.016767
   },
   {
@@ -156,7 +156,7 @@
   },
   {
     "name": "2028/A",
-    "bidPrice": 1.0217610000000001,
+    "bidPrice": 1.021554,
     "accruedInterest": 0.053259999999999995
   },
   {
@@ -176,7 +176,7 @@
   },
   {
     "name": "2029/A",
-    "bidPrice": 0.907697,
+    "bidPrice": 0.907932,
     "accruedInterest": 0.00411
   },
   {
@@ -196,7 +196,7 @@
   },
   {
     "name": "2029/C",
-    "bidPrice": 1.007285,
+    "bidPrice": 1.007581,
     "accruedInterest": 0.041260000000000005
   },
   {
@@ -221,7 +221,7 @@
   },
   {
     "name": "2030/A",
-    "bidPrice": 0.9025920000000001,
+    "bidPrice": 0.9029210000000001,
     "accruedInterest": 0.028767
   },
   {
@@ -276,7 +276,7 @@
   },
   {
     "name": "2031/B",
-    "bidPrice": 1.0398990000000001,
+    "bidPrice": 1.040763,
     "accruedInterest": 0.002589
   },
   {
@@ -286,7 +286,7 @@
   },
   {
     "name": "2031/A",
-    "bidPrice": 0.8891469999999999,
+    "bidPrice": 0.889555,
     "accruedInterest": 0.025644
   },
   {
@@ -301,7 +301,7 @@
   },
   {
     "name": "2032/G",
-    "bidPrice": 0.937698,
+    "bidPrice": 0.938161,
     "accruedInterest": 0.008753
   },
   {
@@ -316,7 +316,7 @@
   },
   {
     "name": "2032/A",
-    "bidPrice": 0.9465819999999999,
+    "bidPrice": 0.9470810000000001,
     "accruedInterest": 0.033185
   },
   {
@@ -351,7 +351,7 @@
   },
   {
     "name": "2035/A",
-    "bidPrice": 1.084247,
+    "bidPrice": 1.084984,
     "accruedInterest": 0.054848999999999995
   },
   {
@@ -361,7 +361,7 @@
   },
   {
     "name": "2036/B",
-    "bidPrice": 0.988536,
+    "bidPrice": 0.988542,
     "accruedInterest": 0.0121
   },
   {
@@ -381,7 +381,7 @@
   },
   {
     "name": "2051/G",
-    "bidPrice": 0.75263,
+    "bidPrice": 0.7536780000000001,
     "accruedInterest": 0.010959000000000002
   }
 ]
