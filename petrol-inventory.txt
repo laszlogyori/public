@@ -1,27 +1,7 @@
 {
   "text": "Szerdán a benzin beszerzési ára nem változik, a gázolaj ára emelkedik bruttó 6 forinttal. A mai országos átlagárak így alakulnak: 95-ös benzin: 576 Ft/liter Gázolaj: 658 Ft/liter",
-  "change": -1,
+  "change": 0,
   "prices": [
-    {
-      "date": "2026-06-23",
-      "average": 583,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 614.0
-      },
-      "omv": {
-        "type": "100-benzin-e5",
-        "price": 668.0
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 656.0
-      },
-      "auchan": {
-        "type": "100-benzin-e5",
-        "price": 639.0
-      }
-    },
     {
       "date": "2026-06-24",
       "average": 580,
@@ -872,6 +852,22 @@
     },
     {
       "date": "2026-08-11",
+      "average": 576,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 612.0
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 664.0
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 659.0
+      }
+    },
+    {
+      "date": "2026-08-12",
       "average": 576,
       "shell": {
         "type": "premium-benzin-e10",
