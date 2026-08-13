@@ -1,5 +1,5 @@
 {
-  "text": "Csütörtökre nem változnak a nagykereskedelmi üzemanyagárak, sem a benzin, sem a gázolaj esetében nem lesz módosítás. A szerdai nagykereskedelmi árakhoz képest a mai országos kiskereskedelmi átlagárak a gázolaj esetében 6 forinttal emelkedtek. A mai országos átlagárak jelenleg így alakulnak: 95-ös benzin: 576 Ft/liter Gázolaj: 664 Ft/liter",
+  "text": "Péntekre sem érkezik újabb nagykereskedelmi árváltozás: a benzin és a gázolaj ára is változatlan marad. A csütörtöki nagykereskedelmi árakhoz képest a mai országos kiskereskedelmi átlagárakban sem történt érdemi elmozdulás, így a kutakon összességében stabilan alakultak az árak. A mai országos átlagárak a következők: 95-ös benzin: 576 Ft/liter Gázolaj: 664 Ft/liter",
   "change": 0,
   "prices": [
     {
