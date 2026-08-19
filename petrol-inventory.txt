@@ -1,6 +1,6 @@
 {
-  "text": "Szerdától ismét emelkednek a nagykereskedelmi üzemanyagárak: a 95-ös benzin és a gázolaj beszerzési ára egyaránt bruttó 8 forinttal nő. A hét eleji változatlan árak után ezúttal mindkét üzemanyagtípusnál jelentős korrekció érkezik. A mai országos átlagárak jelenleg így alakulnak: 95-ös benzin: 584 Ft/liter Gázolaj: 673 Ft/liter",
-  "change": 0,
+  "text": "Csütörtökre nem változnak a nagykereskedelmi üzemanyagárak, így a benzin és a gázolaj beszerzési ára is változatlan marad. A szerdai, 8-8 forintos nagykereskedelmi emelésből a mai országos kiskereskedelmi átlagárakban a teljes emelés megjelent mindkét üzemanyagtípus esetében. A mai országos átlagárak az alábbiak: 95-ös benzin: 592 Ft/liter Gázolaj: 680 Ft/liter",
+  "change": 8,
   "prices": [
     {
       "date": "2026-07-01",
@@ -840,7 +840,7 @@
     },
     {
       "date": "2026-08-19",
-      "average": 584,
+      "average": 592,
       "shell": {
         "type": "premium-benzin-e10",
         "price": 631.0
