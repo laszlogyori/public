@@ -1,7 +1,1 @@
-[
-  {
-    "name": "Lidl (Erdőkerülő)",
-    "available": 1,
-    "total": 1
-  }
-]
+[]
