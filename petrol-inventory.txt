@@ -1,5 +1,5 @@
 {
-  "text": "Szerdától sem kell üzemanyagár változásra számítanunk a benzinkutakon, mivel a benzin és a gázolaj nagykereskedelemi ára sem változik. 2026.08.25-án az alábbi átlagárakon tankolhatunk: 95-ös benzin: 592 Ft/liter Gázolaj: 681 Ft/liter",
+  "text": "A hét második felében sem érkezik újabb nagykereskedelmi árváltozás: csütörtökön változatlan marad mind a benzin, mind a gázolaj beszerzési ára. A mai országos átlagárak jelenleg így alakulnak: 95-ös benzin: 592 Ft/liter Gázolaj: 681 Ft/liter",
   "change": 0,
   "prices": [
     {
