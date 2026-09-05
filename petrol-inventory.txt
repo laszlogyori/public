@@ -1,6 +1,6 @@
 {
-  "text": "Mi változik a tájékoztatásban? Napi frissítés hétfőtől péntekig: A jövőben minden hétköznap délelőtt 10:00 óráig megjelennek az aznapi valós kiskereskedelmi átlagárak a kezdő oldalon, illetve az előző naphoz mért változásról hírlevélben is küldünk tájékoztatást. Tényleges kútárak a nagyker árak helyett: Mivel a nagykereskedelmi és a kiskereskedelmi árak mozgása elvált egymástól, a forintosított nagyker árak közlését kivezetjük. Ez az információ regisztrált partnereink (töltőállomás tulajdonosok) számára továbbra is elérhető lehet. A tankolók pedig ezentúl pontosan tudják majd, hogy a kutak árai adott napon hogyan alakulnak. Árszórás a kutakon: Az átlagárak mellett rendszeresen közöljük a legolcsóbb és legdrágább kutak közötti ár sávot is. Tervezzük visszavezetni az árváltozásra vonatkozó előrejelzéseket is, próbáljuk megjósolni, hogy adott héten fel vagy le mozdulnak majd az itthoni üzemanyagárak. Minimum - Ft/l 587.0 Átlag - Ft/l 609.5 Átlagár alatt hol? Maximum - Ft/l 668.0 Minimum - Ft/l 657.0 Átlag - Ft/l 688.5 Átlagár alatt hol? Maximum - Ft/l 752.0 Minimum - Ft/l 632.0 Átlag - Ft/l 694.0 Átlagár alatt hol? Maximum - Ft/l 757.0 még több aktuális üzemanyagár Üzemanyagár-változás– 2026-09-04 A mai árazás alapján az országos átlagárak nem változtak a tegnapihoz képest, így sem a 95-ös benzin, sem a gázolaj átlagára nem módosult. A Holtankoljak.hu aktuális adatai alapján az országos átlagárak ma is a következőképpen alakulnak: 95-ös benzin: 609 Ft/liter Gázolaj: 688 Ft/liter",
-  "change": 0,
+  "text": "Mi változik a tájékoztatásban? Napi frissítés hétfőtől péntekig: A jövőben minden hétköznap délelőtt 10:00 óráig megjelennek az aznapi valós kiskereskedelmi átlagárak a kezdő oldalon, illetve az előző naphoz mért változásról hírlevélben is küldünk tájékoztatást. Tényleges kútárak a nagyker árak helyett: Mivel a nagykereskedelmi és a kiskereskedelmi árak mozgása elvált egymástól, a forintosított nagyker árak közlését kivezetjük. Ez az információ regisztrált partnereink (töltőállomás tulajdonosok) számára továbbra is elérhető lehet. A tankolók pedig ezentúl pontosan tudják majd, hogy a kutak árai adott napon hogyan alakulnak. Árszórás a kutakon: Az átlagárak mellett rendszeresen közöljük a legolcsóbb és legdrágább kutak közötti ár sávot is. Tervezzük visszavezetni az árváltozásra vonatkozó előrejelzéseket is, próbáljuk megjósolni, hogy adott héten fel vagy le mozdulnak majd az itthoni üzemanyagárak. Minimum - Ft/l 588.0 Átlag - Ft/l 616.5 Átlagár alatt hol? Maximum - Ft/l 676.0 Minimum - Ft/l 657.0 Átlag - Ft/l 696.3 Átlagár alatt hol? Maximum - Ft/l 761.0 Minimum - Ft/l 632.0 Átlag - Ft/l 701.6 Átlagár alatt hol? Maximum - Ft/l 767.0 még több aktuális üzemanyagár Üzemanyagár-változás előrejelzés - 37. hét 2026-09-05 A heti piaci folyamatok és a hazai aktuális üzemanyag átlagárak alapján a jövő hét első felében további mérsékelt áremelkedésre vagy stagnálásra lehet számítani a hazai benzinkutakon. Várható változás mértéke: 95-ös benzin: +2–5 Ft/liter körüli drágulás Gázolaj: +3–6 Ft/liter körüli drágulás A drágulási okai: Nemzetközi olajárak (Brent): A Brent típusú nyersolaj hordónkénti ára átlépte a lélektani 90 dolláros szintet, és a hét végére a 91–96 dolláros sáv felé vette az irányt. A kínálati szűkülések és az észak-amerikai/közel-keleti geopolitikai feszültségek közvetlenül hajtják fel a finomított termékek jegyzésárát. USD/HUF árfolyam: Az utóbbi napokban a dollár/forint árfolyam nem tudott tartósan erősödni a magyar fizetőeszköz javára, így a dollárban mért olajdrágulás teljes egészében begyűrűzik a hazai nagykereskedelmi árakba. A dollár/forint (USD/HUF) árfolyama jelenleg 310 – 311 Ft körül alakul a bankközi piacon.",
+  "change": -298,
   "prices": [
     {
       "date": "2026-07-18",
@@ -788,18 +788,18 @@
     },
     {
       "date": "2026-09-05",
-      "average": 609,
+      "average": 311,
       "shell": {
         "type": "premium-benzin-e10",
-        "price": 646.0
+        "price": 656.0
       },
       "omv": {
         "type": "100-benzin-e5",
-        "price": 697.0
+        "price": 705.0
       },
       "mol": {
         "type": "100-benzin-e5",
-        "price": 693.0
+        "price": 701.0
       }
     }
   ]
