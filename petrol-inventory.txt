@@ -1,6 +1,6 @@
 {
-  "text": "Mi változik a tájékoztatásban? Napi frissítés hétfőtől péntekig: A jövőben minden hétköznap délelőtt 10:00 óráig megjelennek az aznapi valós kiskereskedelmi átlagárak a kezdő oldalon, illetve az előző naphoz mért változásról hírlevélben is küldünk tájékoztatást. Tényleges kútárak a nagyker árak helyett: Mivel a nagykereskedelmi és a kiskereskedelmi árak mozgása elvált egymástól, a forintosított nagyker árak közlését kivezetjük. Ez az információ regisztrált partnereink (töltőállomás tulajdonosok) számára továbbra is elérhető lehet. A tankolók pedig ezentúl pontosan tudják majd, hogy a kutak árai adott napon hogyan alakulnak. Árszórás a kutakon: Az átlagárak mellett rendszeresen közöljük a legolcsóbb és legdrágább kutak közötti ár sávot is. Tervezzük visszavezetni az árváltozásra vonatkozó előrejelzéseket is, próbáljuk megjósolni, hogy adott héten fel vagy le mozdulnak majd az itthoni üzemanyagárak. Minimum - Ft/l 597.0 Átlag - Ft/l 631.5 Átlagár alatt hol? Maximum - Ft/l 691.0 Minimum - Ft/l 670.0 Átlag - Ft/l 701.5 Átlagár alatt hol? Maximum - Ft/l 765.0 Minimum - Ft/l 649.0 Átlag - Ft/l 715.7 Átlagár alatt hol? Maximum - Ft/l 781.0 még több aktuális üzemanyagár Üzemanyagár-változás– 2026-09-16 Szerdán változott a 95-ös benzin országos átlagára, míg a gázolaj ára továbbra sem módosult. A benzin ára az előző napi 626 forintos átlaghoz képest 5 forinttal emelkedett, a gázolajé változatlan maradt. A nemzetközi olajpiaci árak az elmúlt napokban továbbra is magas szinten mozognak, így különösen figyelemre méltó, hogy a hazai gázolajár egyelőre nem követte a világpiaci mozgásokat. A friss országos átlagárak jelenleg: 95-ös benzin: 631 Ft/liter Gázolaj: 701 Ft/liter",
-  "change": 0,
+  "text": "Mi változik a tájékoztatásban? Napi frissítés hétfőtől péntekig: A jövőben minden hétköznap délelőtt 10:00 óráig megjelennek az aznapi valós kiskereskedelmi átlagárak a kezdő oldalon, illetve az előző naphoz mért változásról hírlevélben is küldünk tájékoztatást. Tényleges kútárak a nagyker árak helyett: Mivel a nagykereskedelmi és a kiskereskedelmi árak mozgása elvált egymástól, a forintosított nagyker árak közlését kivezetjük. Ez az információ regisztrált partnereink (töltőállomás tulajdonosok) számára továbbra is elérhető lehet. A tankolók pedig ezentúl pontosan tudják majd, hogy a kutak árai adott napon hogyan alakulnak. Árszórás a kutakon: Az átlagárak mellett rendszeresen közöljük a legolcsóbb és legdrágább kutak közötti ár sávot is. Tervezzük visszavezetni az árváltozásra vonatkozó előrejelzéseket is, próbáljuk megjósolni, hogy adott héten fel vagy le mozdulnak majd az itthoni üzemanyagárak. Minimum - Ft/l 597.0 Átlag - Ft/l 635.3 Átlagár alatt hol? Maximum - Ft/l 695.0 Minimum - Ft/l 670.0 Átlag - Ft/l 708.8 Átlagár alatt hol? Maximum - Ft/l 773.0 Minimum - Ft/l 653.0 Átlag - Ft/l 719.4 Átlagár alatt hol? Maximum - Ft/l 785.0 még több aktuális üzemanyagár Üzemanyagár-változás– 2026-09-17 Csütörtökön mindkét üzemanyagtípus ára emelkedett. A 95-ös benzin országos átlagára 4 forinttal, míg a gázolajé 8 forinttal nőtt a szerdai árakhoz képest. A friss töltőállomási adatok alapján a mai országos átlagárak: 95-ös benzin: 635 Ft/liter Gázolaj: 709 Ft/liter",
+  "change": 9,
   "prices": [
     {
       "date": "2026-07-30",
@@ -788,18 +788,18 @@
     },
     {
       "date": "2026-09-17",
-      "average": 626,
+      "average": 635,
       "shell": {
         "type": "premium-benzin-e10",
-        "price": 671.0
+        "price": 675.0
       },
       "omv": {
         "type": "100-benzin-e5",
-        "price": 717.0
+        "price": 721.0
       },
       "mol": {
         "type": "100-benzin-e5",
-        "price": 716.0
+        "price": 720.0
       }
     }
   ]
