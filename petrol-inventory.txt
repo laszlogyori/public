@@ -1,23 +1,7 @@
 {
   "text": "Mi változik a tájékoztatásban? Napi frissítés hétfőtől péntekig: A jövőben minden hétköznap délelőtt 10:00 óráig megjelennek az aznapi valós kiskereskedelmi átlagárak a kezdő oldalon, illetve az előző naphoz mért változásról hírlevélben is küldünk tájékoztatást. Tényleges kútárak a nagyker árak helyett: Mivel a nagykereskedelmi és a kiskereskedelmi árak mozgása elvált egymástól, a forintosított nagyker árak közlését kivezetjük. Ez az információ regisztrált partnereink (töltőállomás tulajdonosok) számára továbbra is elérhető lehet. A tankolók pedig ezentúl pontosan tudják majd, hogy a kutak árai adott napon hogyan alakulnak. Árszórás a kutakon: Az átlagárak mellett rendszeresen közöljük a legolcsóbb és legdrágább kutak közötti ár sávot is. Tervezzük visszavezetni az árváltozásra vonatkozó előrejelzéseket is, próbáljuk megjósolni, hogy adott héten fel vagy le mozdulnak majd az itthoni üzemanyagárak. Minimum - Ft/l 597.0 Átlag - Ft/l 635.6 Átlagár alatt hol? Maximum - Ft/l 695.0 Minimum - Ft/l 675.9 Átlag - Ft/l 709.2 Átlagár alatt hol? Maximum - Ft/l 773.0 Minimum - Ft/l 653.0 Átlag - Ft/l 719.6 Átlagár alatt hol? Maximum - Ft/l 785.0 még több aktuális üzemanyagár Üzemanyagár-változás– 2026-09-21 Hétfőn ismét változott a benzin országos átlagára, míg a gázolaj ára változatlan maradt. A 95-ös benzin a pénteki átlagárhoz képest 1 forinttal emelkedett, a gázolaj esetében azonban nem történt módosulás. A hét elején így továbbra is a 700 forint feletti gázolajár jelenti a magasabb átlagárat, miközben a benzin ára enyhén emelkedett. A friss adatok alapján az országos átlagárak: 95-ös benzin: 636 Ft/liter Gázolaj: 709 Ft/liter",
-  "change": -9,
+  "change": 0,
   "prices": [
-    {
-      "date": "2026-08-03",
-      "average": 617,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 637.0
-      },
-      "omv": {
-        "type": "100-benzin-e5",
-        "price": 689.0
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 684.0
-      }
-    },
     {
       "date": "2026-08-04",
       "average": 600,
@@ -788,6 +772,22 @@
     },
     {
       "date": "2026-09-21",
+      "average": 700,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 675.0
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 721.0
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 720.0
+      }
+    },
+    {
+      "date": "2026-09-22",
       "average": 700,
       "shell": {
         "type": "premium-benzin-e10",
