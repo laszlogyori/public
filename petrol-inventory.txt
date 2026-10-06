@@ -1,5 +1,5 @@
 {
-  "text": "Hétfőn sem változtak a hazai üzemanyagárak a pénteki országos átlagokhoz képest. A 95-ös benzin és a gázolaj ára továbbra is változatlan. A nemzetközi olajpiacon közben ismét érdekes fordulat látható. A Brent ára jelenleg 102 dollár körül alakul, miközben a G7 országai 100 millió hordó nyersolaj és dízel felszabadításáról döntöttek stratégiai készleteikből. Emellett a közel-keleti olajexport is növekedett az elmúlt időszakban, ami mérsékelheti az ellátással kapcsolatos aggodalmakat. A világpiaci mozgások ellenére a magyarországi kiskereskedelmi átlagárak egyelőre továbbra is stabilak. A hét elején az országos átlagárak: 95-ös benzin: 636 Ft/liter Gázolaj: 709 Ft/liter",
+  "text": "Kedden sem változtak a hazai üzemanyagárak, ami azt jelenti, hogy már közel három hete ugyanazon a szinten alakul a 95-ös benzin és a gázolaj átlagára. A tartós stabilitás azért is figyelemre méltó, mert ez idő alatt a nemzetközi olajpiacon és a devizapiacon is történtek jelentősebb változások. A hazai kiskereskedelmi árak azonban egyelőre nem követték ezeket a mozgásokat, így a kutakon továbbra is ugyanazokkal az átlagárakkal találkozhatnak az autósok. Az október 6-i országos átlagárak: 95-ös benzin: 636 Ft/liter Gázolaj: 709 Ft/liter",
   "change": 0,
   "prices": [
     {
