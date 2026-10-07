@@ -1042,5 +1042,14 @@
     "gas": 101.2,
     "services": 105.0,
     "total": 101.3
+  },
+  {
+    "date": "2026-09",
+    "food": 98.7,
+    "clothes": 99.6,
+    "consumables": 101.2,
+    "gas": 102.8,
+    "services": 104.9,
+    "total": 101.6
   }
 ]
