@@ -1,23 +1,7 @@
 {
   "text": "Csütörtökön kisebb korrekció történt a benzin országos átlagárában: a 95-ös benzin ára 1 forinttal emelkedett tegnaphoz képest. A gázolaj ára továbbra is változatlan maradt. A benzin esetében ez mindössze egy kisebb elmozdulás,  most ismét stabilabb árak jellemzik a hazai piacot. A mai országos átlagárak: 95-ös benzin: 642 Ft/liter Gázolaj: 709 Ft/liter",
-  "change": 1,
+  "change": 0,
   "prices": [
-    {
-      "date": "2026-08-20",
-      "average": 592,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 631.0
-      },
-      "omv": {
-        "type": "100-benzin-e5",
-        "price": 680.0
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 676.0
-      }
-    },
     {
       "date": "2026-08-21",
       "average": 592,
@@ -804,6 +788,26 @@
     },
     {
       "date": "2026-10-08",
+      "average": 642,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 681.0
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 727.0
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 726.0
+      },
+      "auchan": {
+        "type": "100-benzin-e5",
+        "price": 699.0
+      }
+    },
+    {
+      "date": "2026-10-09",
       "average": 642,
       "shell": {
         "type": "premium-benzin-e10",
