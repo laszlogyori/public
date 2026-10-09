@@ -1,5 +1,5 @@
 {
-  "text": "Csütörtökön kisebb korrekció történt a benzin országos átlagárában: a 95-ös benzin ára 1 forinttal emelkedett tegnaphoz képest. A gázolaj ára továbbra is változatlan maradt. A benzin esetében ez mindössze egy kisebb elmozdulás,  most ismét stabilabb árak jellemzik a hazai piacot. A mai országos átlagárak: 95-ös benzin: 642 Ft/liter Gázolaj: 709 Ft/liter",
+  "text": "Pénteken változatlanok maradnak a hazai üzemanyagárak. A 95-ös benzin és a gázolaj országos átlagára sem módosult az előző naphoz képest.A hét utolsó munkanapján így továbbra is stabilak az átlagárak a hazai töltőállomásokon. A mai országos átlagárak: 95-ös benzin: 642 Ft/liter Gázolaj: 709 Ft/liter",
   "change": 0,
   "prices": [
     {
