@@ -1,5 +1,5 @@
 {
-  "text": "Hétfőn sem változtak a hazai üzemanyagárak: a 95-ös benzin és a gázolaj országos átlagára egyaránt a pénteki szinten maradt. A hét első munkanapján így továbbra is változatlan átlagárakkal találkozhatnak az autósok a hazai töltőállomásokon. A nemzetközi olajpiacon eközben továbbra is bizonytalan a helyzet. Bár hétfőn mérséklődtek a jegyzésárak az orosz–ukrán energetikai tűzszünet lehetőségével kapcsolatos hírek hatására, a közel-keleti konfliktus és az ellátási kockázatok továbbra is befolyásolják a piaci folyamatokat. A mai országos átlagárak: 95-ös benzin: 642 Ft/liter Gázolaj: 709 Ft/liter",
+  "text": "Kedden sem változtak a hazai üzemanyagárak: a 95-ös benzin és a gázolaj országos átlagára továbbra is az előző napi szinten maradt. A hét második munkanapján így változatlan árakkal találkozhatnak az autósok a hazai töltőállomásokon. A mai átlagárak az alábbiak szerint alakulnak: 95-ös benzin: 642 Ft/liter Gázolaj: 709 Ft/liter",
   "change": 0,
   "prices": [
     {
