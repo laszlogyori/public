@@ -1,23 +1,7 @@
 {
   "text": "Hétfőre emelkedett a 95-ös benzin országos átlagára, míg a gázolajé változatlan maradt. A benzin literenkénti ára bruttó 3 forinttal nőtt péntekhez képest, a dízel átlagára azonban nem változott. A hét elején tehát csak a benzin esetében tapasztalható elmozdulás, a gázolaj ára továbbra is stabil. Érdemes figyelemmel kísérni a következő napok áralakulását, hogy kiderüljön, folytatódik-e a benzin drágulása. A Holtankoljak.hu friss adatai szerint jelenleg az alábbi országos átlagárakkal számolhatnak az autósok: 95-ös benzin: 645 Ft/liter Gázolaj: 709 Ft/liter",
-  "change": 3,
+  "change": 0,
   "prices": [
-    {
-      "date": "2026-08-31",
-      "average": 592,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 636.0
-      },
-      "omv": {
-        "type": "100-benzin-e5",
-        "price": 685.0
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 681.0
-      }
-    },
     {
       "date": "2026-09-01",
       "average": 602,
@@ -848,6 +832,26 @@
     },
     {
       "date": "2026-10-19",
+      "average": 645,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 685.0
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 729.0
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 730.0
+      },
+      "auchan": {
+        "type": "100-benzin-e5",
+        "price": 699.0
+      }
+    },
+    {
+      "date": "2026-10-20",
       "average": 645,
       "shell": {
         "type": "premium-benzin-e10",
