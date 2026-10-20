@@ -1,5 +1,5 @@
 {
-  "text": "Hétfőre emelkedett a 95-ös benzin országos átlagára, míg a gázolajé változatlan maradt. A benzin literenkénti ára bruttó 3 forinttal nőtt péntekhez képest, a dízel átlagára azonban nem változott. A hét elején tehát csak a benzin esetében tapasztalható elmozdulás, a gázolaj ára továbbra is stabil. Érdemes figyelemmel kísérni a következő napok áralakulását, hogy kiderüljön, folytatódik-e a benzin drágulása. A Holtankoljak.hu friss adatai szerint jelenleg az alábbi országos átlagárakkal számolhatnak az autósok: 95-ös benzin: 645 Ft/liter Gázolaj: 709 Ft/liter",
+  "text": "A hazai üzemanyagárak a héten várhatóan nem változnak drasztikusan: a 95-ös benzin 645 Ft/liter, a gázolaj pedig 709 Ft/liter körüli szinten stabilizálódik. A helyzet háttere és a heti kilátások röviden: • A Trump-sztori: Donald Trump elnöki rendelettel felfüggesztette az Oroszország elleni új energiaszankciókat, miután megegyezett Vlagyimir Putyinnal. Oroszország cserébe hatalmas mennyiségű kész dízelt szállít a világpiacra, ami azonnal letörte a finomított termékek nemzetközi tőzsdei árát. • Közvetlen hatás Magyarországra: Ez a lépés elhárította annak a veszélyét, hogy az USA büntetővámokkal sújtsa Magyarországot az orosz olajvásárlások miatt, és egyben gátat szabott a hazai üzemanyagárak elszabadulásának is. • Várható árváltozások a héten: Bár az orosz dízelbőség árcsökkentő hatású, a Közel-Keleten zajló háborús konfliktus miatt a nyersolaj ára továbbra is rendkívül magasan (100 dollár felett) mozog. Ez a két ellentétes erő kioltja egymást. Emiatt a héten komoly árzuhanásra még nem kell számítani, inkább a jelenlegi 645 forintos benzin- és 709 forintos dízelár stagnálása valószínűsíthető, minimális (pár forintos) mozgásokkal. Üzemanyagár-változás– 2026-10-20 Kedden nem változtak a hazai üzemanyagárak. A 95-ös benzin és a gázolaj országos átlagára is az előző napi szinten maradt, ma nem történt újabb elmozdulás. Jelenleg az alábbi országos átlagárakkal találkozhatnak az autósok: 95-ös benzin: 645 Ft/liter Gázolaj: 709 Ft/liter",
   "change": 0,
   "prices": [
     {
@@ -855,7 +855,7 @@
       "average": 645,
       "shell": {
         "type": "premium-benzin-e10",
-        "price": 685.0
+        "price": 686.0
       },
       "omv": {
         "type": "100-benzin-e5",
@@ -867,7 +867,7 @@
       },
       "auchan": {
         "type": "100-benzin-e5",
-        "price": 699.0
+        "price": 705.0
       }
     }
   ]
