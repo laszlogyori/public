@@ -1,23 +1,7 @@
 {
-  "text": "A hazai üzemanyagárak a héten várhatóan nem változnak drasztikusan: a 95-ös benzin 645 Ft/liter, a gázolaj pedig 709 Ft/liter körüli szinten stabilizálódik. A helyzet háttere és a heti kilátások röviden: • A Trump-sztori: Donald Trump elnöki rendelettel felfüggesztette az Oroszország elleni új energiaszankciókat, miután megegyezett Vlagyimir Putyinnal. Oroszország cserébe hatalmas mennyiségű kész dízelt szállít a világpiacra, ami azonnal letörte a finomított termékek nemzetközi tőzsdei árát. • Közvetlen hatás Magyarországra: Ez a lépés elhárította annak a veszélyét, hogy az USA büntetővámokkal sújtsa Magyarországot az orosz olajvásárlások miatt, és egyben gátat szabott a hazai üzemanyagárak elszabadulásának is. • Várható árváltozások a héten: Bár az orosz dízelbőség árcsökkentő hatású, a Közel-Keleten zajló háborús konfliktus miatt a nyersolaj ára továbbra is rendkívül magasan (100 dollár felett) mozog. Ez a két ellentétes erő kioltja egymást. Emiatt a héten komoly árzuhanásra még nem kell számítani, inkább a jelenlegi 645 forintos benzin- és 709 forintos dízelár stagnálása valószínűsíthető, minimális (pár forintos) mozgásokkal. Üzemanyagár-változás– 2026-10-23 Pénteken, az 1956-os forradalom és szabadságharc emléknapján sem változtak a hazai üzemanyagárak. A 95-ös benzin és a gázolaj országos átlagára egyaránt az előző napi szinten maradt. A hétfői kisebb benzináremelkedés óta nem történt újabb változás, így a hét végére is stabilak maradtak a hazai üzemanyagárak. A Holtankoljak.hu friss adatai alapján a jelenlegi országos átlagárak: 95-ös benzin: 645 Ft/liter Gázolaj: 709 Ft/liter",
+  "text": "Pénteken, az 1956-os forradalom és szabadságharc emléknapján sem változtak a hazai üzemanyagárak. A 95-ös benzin és a gázolaj országos átlagára egyaránt az előző napi szinten maradt. A hétfői kisebb benzináremelkedés óta nem történt újabb változás, így a hét végére is stabilak maradtak a hazai üzemanyagárak. A Holtankoljak.hu friss adatai alapján a jelenlegi országos átlagárak: 95-ös benzin: 645 Ft/liter Gázolaj: 709 Ft/liter",
   "change": 0,
   "prices": [
-    {
-      "date": "2026-09-04",
-      "average": 609,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 646.0
-      },
-      "omv": {
-        "type": "100-benzin-e5",
-        "price": 697.0
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 693.0
-      }
-    },
     {
       "date": "2026-09-05",
       "average": 311,
@@ -864,6 +848,26 @@
     },
     {
       "date": "2026-10-23",
+      "average": 645,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 686.0
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 729.0
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 730.0
+      },
+      "auchan": {
+        "type": "100-benzin-e5",
+        "price": 705.0
+      }
+    },
+    {
+      "date": "2026-10-24",
       "average": 645,
       "shell": {
         "type": "premium-benzin-e10",
