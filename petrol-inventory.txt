@@ -1,5 +1,5 @@
 {
-  "text": "Pénteken, az 1956-os forradalom és szabadságharc emléknapján sem változtak a hazai üzemanyagárak. A 95-ös benzin és a gázolaj országos átlagára egyaránt az előző napi szinten maradt. A hétfői kisebb benzináremelkedés óta nem történt újabb változás, így a hét végére is stabilak maradtak a hazai üzemanyagárak. A Holtankoljak.hu friss adatai alapján a jelenlegi országos átlagárak: 95-ös benzin: 645 Ft/liter Gázolaj: 709 Ft/liter",
+  "text": "Hétfőn sem változtak a hazai üzemanyagárak: a 95-ös benzin és a gázolaj országos átlagára egyaránt a pénteki szinten maradt. A hosszú hétvége után így változatlan árakkal indul az új hét. A nemzetközi olajpiacon eközben lefelé mozdultak az árak a múlt heti jelentős emelkedést követően. A Brent kőolaj jegyzése hétfőn mérséklődött, miután a múlt hét végén 116 dollár fölé is emelkedett hordónként. Az árakat továbbra is befolyásolják a közel-keleti feszültségek és az olajellátással kapcsolatos bizonytalanságok. A nemzetközi piaci mozgások ellenére a hazai töltőállomásokon egyelőre nem történt árváltozás. A Holtankoljak.hu árösszesítése alapján jelenleg a következő országos átlagárakkal számolhatnak az autósok: 95-ös benzin: 645 Ft/liter Gázolaj: 709 Ft/liter",
   "change": 0,
   "prices": [
     {
