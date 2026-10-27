@@ -3,22 +3,6 @@
   "change": 0,
   "prices": [
     {
-      "date": "2026-09-08",
-      "average": 622,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 661.0
-      },
-      "omv": {
-        "type": "100-benzin-e5",
-        "price": 710.0
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 706.0
-      }
-    },
-    {
       "date": "2026-09-09",
       "average": 626,
       "shell": {
@@ -880,6 +864,26 @@
     },
     {
       "date": "2026-10-27",
+      "average": 645,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 686.0
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 729.0
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 730.0
+      },
+      "auchan": {
+        "type": "100-benzin-e5",
+        "price": 705.0
+      }
+    },
+    {
+      "date": "2026-10-28",
       "average": 645,
       "shell": {
         "type": "premium-benzin-e10",
