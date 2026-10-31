@@ -1,23 +1,7 @@
 {
-  "text": "A Brent olaj hordónkénti jegyzésára egészen 110 dollárig emelkedett már a múlt héten, leginkább a közel-keleti geopolitikai feszültségeknek köszönhetően illetve a dízelhiány miatt. Mivel a dízel iránt ősszel fokozódik a kereslet, így annak beszerzési ára is folyamatosan emelkedik. A forint a dollárral szemben gyengült a héten, már 330 forint körül mozog az árfolyam, ami 1,5%-os gyengülést jelent a a múlt héthez képest. Mivel folyamatosan szűkül a gázolaj európai kínálata, így további áremelésre is számítani lehet, ha újra a piac kezd árazni a hazai kutakon. Ez a benzin esetében akár 10 forint is lehet literenként, míg a gázolaj esetében ez 20 forintot is jelenthet. Üzemanyagár-változás2026. 2026-10-30 Tovább emelkedik a gázolaj nagy és kiskereskedelmi ára is péntektől, ez bruttó 4 forintos emelést jelent a hagyományos dízel és prémium gázolaj esetében is. A piac a héten a nagykereskedelmi árváltozások alapján változtatja a kiskereskedelmi árakat is. Ez alapján a mai napon (2026.10.30-án) az alábbi átlagárakon tankolhatunk: 95-ös benzin: 642 Ft/liter Gázolaj: 721 Ft/liter",
+  "text": "Tovább emelkedik a gázolaj nagy és kiskereskedelmi ára is péntektől, ez bruttó 4 forintos emelést jelent a hagyományos dízel és prémium gázolaj esetében is. A piac a héten a nagykereskedelmi árváltozások alapján változtatja a kiskereskedelmi árakat is. Ez alapján a mai napon (2026.10.30-án) az alábbi átlagárakon tankolhatunk: 95-ös benzin: 642 Ft/liter Gázolaj: 721 Ft/liter",
   "change": 0,
   "prices": [
-    {
-      "date": "2026-09-12",
-      "average": 626,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 661.0
-      },
-      "omv": {
-        "type": "100-benzin-e5",
-        "price": 715.0
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 711.0
-      }
-    },
     {
       "date": "2026-09-13",
       "average": 626,
@@ -896,6 +880,26 @@
     },
     {
       "date": "2026-10-31",
+      "average": 642,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 679.0
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 723.0
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 724.0
+      },
+      "auchan": {
+        "type": "100-benzin-e5",
+        "price": 711.0
+      }
+    },
+    {
+      "date": "2026-11-01",
       "average": 642,
       "shell": {
         "type": "premium-benzin-e10",
