@@ -1,6 +1,6 @@
 {
-  "text": "Tovább emelkedik a gázolaj nagy és kiskereskedelmi ára is péntektől, ez bruttó 4 forintos emelést jelent a hagyományos dízel és prémium gázolaj esetében is. A piac a héten a nagykereskedelmi árváltozások alapján változtatja a kiskereskedelmi árakat is. Ez alapján a mai napon (2026.10.30-án) az alábbi átlagárakon tankolhatunk: 95-ös benzin: 642 Ft/liter Gázolaj: 721 Ft/liter",
-  "change": 0,
+  "text": "Hétfőre kisebb mértékben csökkent a 95-ös benzin országos átlagára a pénteki értékhez képest. A benzin literenként 2 forinttal lett olcsóbb, míg a gázolaj ára változatlan maradt. A friss országos árösszesítés alapján jelenleg az alábbi átlagárakkal számolhatnak az autósok: 95-ös benzin: 640 Ft/liter Gázolaj: 721 Ft/liter",
+  "change": -2,
   "prices": [
     {
       "date": "2026-09-14",
@@ -904,7 +904,7 @@
     },
     {
       "date": "2026-11-02",
-      "average": 642,
+      "average": 640,
       "shell": {
         "type": "premium-benzin-e10",
         "price": 679.0
@@ -919,7 +919,7 @@
       },
       "auchan": {
         "type": "100-benzin-e5",
-        "price": 711.0
+        "price": 699.0
       }
     }
   ]
