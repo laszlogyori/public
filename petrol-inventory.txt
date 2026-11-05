@@ -1,5 +1,5 @@
 {
-  "text": "A heti üzemanyagárak alakulását alapvetően a nemzetközi piaci bizonytalanság és a finomítói árrések alakítják. A 95-ös benzin nagykereskedelmi ára a heti árazások során stagnálhat vagy minimálisan, bruttó 2–5 forinttal emelkedhet, míg a gázolaj esetében erősebb, bruttó 6–10 forintos drágulásra lehet számítani. A drágulás hátterében elsősorban a Közel-Keleten fennálló geopolitikai feszültség áll, amely tartós kockázati prémiumot tart az olajárakban. Ezt tovább tetézi az amerikai elnökválasztás miatti fokozott piaci idegesség és a dollár globális kilengései. Bár a hazai forint/dollár árfolyam kissé stabilizálódott (325 Ft/USD körül), a magasabb szintek elérték a finomítói beszerzéseket. A benzin és a gázolaj közötti szétnyíló ár költséget a dízel európai szűkös kínálata hajtja. A finomítói kapacitáshiányok, valamint a téli fűtési szezon beindulása és a mezőgazdasági kereslet egyszerre terhelik a gázolajpiacot. Emiatt a dízel finomítói árrése lényegesen magasabb maradt, ami a magyarországi nagykereskedelmi árakban is a dízel javára emeli a költségeket. Üzemanyagár-változás– 2026-11-04 Szerdán tovább mérséklődött a 95-ös benzin országos átlagára, míg a gázolajé változatlan maradt. A benzin literenként 5 forinttal lett olcsóbb keddhez képest. A mai árak alapján a hazai autósok az alábbi országos átlagokkal számolhatnak: 95-ös benzin: 633 Ft/liter Gázolaj: 726 Ft/liter",
+  "text": "A heti üzemanyagárak alakulását alapvetően a nemzetközi piaci bizonytalanság és a finomítói árrések alakítják. A 95-ös benzin nagykereskedelmi ára a heti árazások során stagnálhat vagy minimálisan, bruttó 2–5 forinttal emelkedhet, míg a gázolaj esetében erősebb, bruttó 6–10 forintos drágulásra lehet számítani. A drágulás hátterében elsősorban a Közel-Keleten fennálló geopolitikai feszültség áll, amely tartós kockázati prémiumot tart az olajárakban. Ezt tovább tetézi az amerikai elnökválasztás miatti fokozott piaci idegesség és a dollár globális kilengései. Bár a hazai forint/dollár árfolyam kissé stabilizálódott (325 Ft/USD körül), a magasabb szintek elérték a finomítói beszerzéseket. A benzin és a gázolaj közötti szétnyíló ár költséget a dízel európai szűkös kínálata hajtja. A finomítói kapacitáshiányok, valamint a téli fűtési szezon beindulása és a mezőgazdasági kereslet egyszerre terhelik a gázolajpiacot. Emiatt a dízel finomítói árrése lényegesen magasabb maradt, ami a magyarországi nagykereskedelmi árakban is a dízel javára emeli a költségeket. Üzemanyagár-változás– 2026-11-05 Csütörtökön tovább folytatódott a 95-ös benzin árcsökkenése: az országos átlagár újabb 5 forinttal mérséklődött az előző naphoz képest. A gázolaj ára eközben változatlan maradt.A két üzemanyagtípus közötti árkülönbség továbbra is jelentős. A Holtankoljak.hu friss áradatai alapján jelenleg így alakulnak az országos átlagárak: 95-ös benzin: 628 Ft/liter Gázolaj: 726 Ft/liter",
   "change": 0,
   "prices": [
     {
@@ -919,19 +919,19 @@
       "average": 325,
       "shell": {
         "type": "premium-benzin-e10",
-        "price": 671.0
+        "price": 666.0
       },
       "omv": {
         "type": "100-benzin-e5",
-        "price": 715.0
+        "price": 710.0
       },
       "mol": {
         "type": "100-benzin-e5",
-        "price": 716.0
+        "price": 711.0
       },
       "auchan": {
         "type": "100-benzin-e5",
-        "price": 689.0
+        "price": 683.0
       }
     }
   ]
