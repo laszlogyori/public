@@ -1,23 +1,7 @@
 {
   "text": "Kedden tovább csökkentek a hazai üzemanyagárak. A 95-ös benzin országos átlagára bruttó 5 forinttal, a gázolajé pedig bruttó 4 forinttal mérséklődött szombathoz képest. A csökkenés mindkét üzemanyagtípust érinti, a benzin és a gázolaj ára azonban továbbra is jelentősen eltér egymástól. A két termék közötti különbség jelenleg 111 forint literenként. A mai árak alapján a következő országos átlagárakkal számolhatnak az autósok: 95-ös benzin: 606 Ft/liter Gázolaj: 717 Ft/liter",
-  "change": 1,
+  "change": 0,
   "prices": [
-    {
-      "date": "2026-09-22",
-      "average": 636,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 675.0
-      },
-      "omv": {
-        "type": "100-benzin-e5",
-        "price": 721.0
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 720.0
-      }
-    },
     {
       "date": "2026-09-23",
       "average": 709,
@@ -936,6 +920,26 @@
     },
     {
       "date": "2026-11-10",
+      "average": 111,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 641.0
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 688.0
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 689.0
+      },
+      "auchan": {
+        "type": "100-benzin-e5",
+        "price": 665.0
+      }
+    },
+    {
+      "date": "2026-11-11",
       "average": 111,
       "shell": {
         "type": "premium-benzin-e10",
