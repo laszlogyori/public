@@ -1,5 +1,5 @@
 {
-  "text": "Csütörtökön tovább folytatódott a hazai üzemanyagárak csökkenése. A 95-ös benzin országos átlagára 4 forinttal, a gázolajé pedig 8 forinttal mérséklődött szerdához képest. A hét eleje óta mindkét üzemanyagtípus ára folyamatosan csökken. A benzin átlagára szombat óta összesen 13 forinttal, a gázolajé pedig 18 forinttal lett alacsonyabb. A mostani árcsökkenési tendencia mindkét üzemanyagtípusnál folytatódik. A friss árak alapján a következő országos átlagárakkal számolhatnak az autósok: 95-ös benzin: 598 Ft/liter Gázolaj: 703 Ft/liter",
+  "text": "Pénteken már csak a gázolaj ára mérséklődött a hazai töltőállomásokon. A 95-ös benzin országos átlagára nem változott, a gázolajé viszont további 1 forinttal csökkent csütörtökhöz képest. A hét során mindkét üzemanyagtípus ára folyamatosan mérséklődött. A benzin az elmúlt napok csökkenése után most először maradt változatlan, míg a dízel ára továbbra is lassan lefelé mozdul. A mai árak alapján a következő országos átlagárakkal számolhatnak az autósok: 95-ös benzin: 598 Ft/liter Gázolaj: 702 Ft/liter",
   "change": 0,
   "prices": [
     {
