@@ -1,6 +1,6 @@
 {
-  "text": "Pénteken már csak a gázolaj ára mérséklődött a hazai töltőállomásokon. A 95-ös benzin országos átlagára nem változott, a gázolajé viszont további 1 forinttal csökkent csütörtökhöz képest. A hét során mindkét üzemanyagtípus ára folyamatosan mérséklődött. A benzin az elmúlt napok csökkenése után most először maradt változatlan, míg a dízel ára továbbra is lassan lefelé mozdul. A mai árak alapján a következő országos átlagárakkal számolhatnak az autósok: 95-ös benzin: 598 Ft/liter Gázolaj: 702 Ft/liter",
-  "change": 0,
+  "text": "Hétfőre minimális mértékben csökkent a 95-ös benzin országos átlagára, a gázolajé viszont változatlan maradt péntekhez képest. A benzin literenkénti ára 1 forinttal mérséklődött, míg a dízel ára nem változott. A hét első napján az alábbi országos átlagárakkal számolhatnak az autósok: 95-ös benzin: 597 Ft/liter Gázolaj: 702 Ft/liter",
+  "change": -1,
   "prices": [
     {
       "date": "2026-09-28",
@@ -960,7 +960,7 @@
     },
     {
       "date": "2026-11-16",
-      "average": 598,
+      "average": 597,
       "shell": {
         "type": "premium-benzin-e10",
         "price": 636.0
@@ -975,7 +975,7 @@
       },
       "auchan": {
         "type": "100-benzin-e5",
-        "price": 653.0
+        "price": 655.0
       }
     }
   ]
