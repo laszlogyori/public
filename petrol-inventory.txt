@@ -1,6 +1,6 @@
 {
-  "text": "Hétfőre minimális mértékben csökkent a 95-ös benzin országos átlagára, a gázolajé viszont változatlan maradt péntekhez képest. A benzin literenkénti ára 1 forinttal mérséklődött, míg a dízel ára nem változott. A hét első napján az alábbi országos átlagárakkal számolhatnak az autósok: 95-ös benzin: 597 Ft/liter Gázolaj: 702 Ft/liter",
-  "change": 0,
+  "text": "A hét további részében mindkét üzemanyagtípus esetében árcsökkenésre lehet számítani. A 95-ös benzin nagykereskedelmi ára várhatóan bruttó 3–6 forinttal, míg a gázolajé 5–10 forinttal mérséklődhet. A kedvező irányú változás hátterében elsősorban a nemzetközi olajárak visszaesése áll. A Brent kőolaj jegyzése az elmúlt időszak 110 dollár körüli csúcsáról 92 dollár alá süllyedt, ami lefelé irányuló nyomást gyakorol a finomítói beszerzési árakra. A forint dollárral szembeni árfolyama is kedvezően alakult, enyhe erősödése tovább javítja az importbeszerzések feltételeit. A nemzetközi diplomáciai fejlemények emellett mérsékelték a korábbi kínálati aggodalmakat. Mivel a finomítói jegyzések változása késleltetve jelenik meg a hazai nagykereskedelmi árakban, a nemzetközi olajpiaci áresés hatása a hét második felében is érvényesülhet. A gázolaj esetében akár a 700 forintos lélektani határ alá is csökkenhet az országos átlagár. Üzemanyagár-változás– 2026-11-17 Kedden tovább mérséklődött a 95-ös benzin országos átlagára, literenként 4 forinttal lett olcsóbb hétfőhöz képest, míg a gázolaj ára változatlan maradt. A benzin ára ezzel tovább folytatja a múlt héten kezdődött csökkenő tendenciát. A gázolaj esetében az elmúlt napokban már nem tapasztalható érdemi elmozdulás. A mai napon az alábbi országos átlagárak jellemzik a hazai üzemanyagpiacot: 95-ös benzin: 593 Ft/liter Gázolaj: 702 Ft/liter",
+  "change": 103,
   "prices": [
     {
       "date": "2026-09-29",
@@ -964,18 +964,18 @@
     },
     {
       "date": "2026-11-17",
-      "average": 597,
+      "average": 700,
       "shell": {
         "type": "premium-benzin-e10",
-        "price": 636.0
+        "price": 631.0
       },
       "omv": {
         "type": "100-benzin-e5",
-        "price": 680.0
+        "price": 675.0
       },
       "mol": {
         "type": "100-benzin-e5",
-        "price": 681.0
+        "price": 676.0
       },
       "auchan": {
         "type": "100-benzin-e5",
