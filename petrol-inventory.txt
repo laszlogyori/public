@@ -1,23 +1,7 @@
 {
-  "text": "A hét további részében mindkét üzemanyagtípus esetében árcsökkenésre lehet számítani. A 95-ös benzin nagykereskedelmi ára várhatóan bruttó 3–6 forinttal, míg a gázolajé 5–10 forinttal mérséklődhet. A kedvező irányú változás hátterében elsősorban a nemzetközi olajárak visszaesése áll. A Brent kőolaj jegyzése az elmúlt időszak 110 dollár körüli csúcsáról 92 dollár alá süllyedt, ami lefelé irányuló nyomást gyakorol a finomítói beszerzési árakra. A forint dollárral szembeni árfolyama is kedvezően alakult, enyhe erősödése tovább javítja az importbeszerzések feltételeit. A nemzetközi diplomáciai fejlemények emellett mérsékelték a korábbi kínálati aggodalmakat. Mivel a finomítói jegyzések változása késleltetve jelenik meg a hazai nagykereskedelmi árakban, a nemzetközi olajpiaci áresés hatása a hét második felében is érvényesülhet. A gázolaj esetében akár a 700 forintos lélektani határ alá is csökkenhet az országos átlagár. Üzemanyagár-változás– 2026-11-20 Pénteken tovább csökkentek az üzemanyagok országos átlagárai. A 95-ös benzin literenként 5 forinttal, a gázolaj pedig 4 forinttal lett olcsóbb csütörtökhöz képest. A csökkenés mindkét üzemanyagtípusnál folytatódik, így a benzin ára már 585 forint alá, a gázolajé pedig 700 forint alá mérséklődött. A friss árösszesítés alapján jelenleg az alábbi országos átlagárakkal találkozhatnak az autósok: 95-ös benzin: 583 Ft/liter Gázolaj: 695 Ft/liter",
-  "change": 0,
+  "text": "Pénteken tovább csökkentek az üzemanyagok országos átlagárai. A 95-ös benzin literenként 5 forinttal, a gázolaj pedig 4 forinttal lett olcsóbb csütörtökhöz képest. A csökkenés mindkét üzemanyagtípusnál folytatódik, így a benzin ára már 585 forint alá, a gázolajé pedig 700 forint alá mérséklődött. A friss árösszesítés alapján jelenleg az alábbi országos átlagárakkal találkozhatnak az autósok: 95-ös benzin: 583 Ft/liter Gázolaj: 695 Ft/liter",
+  "change": -115,
   "prices": [
-    {
-      "date": "2026-10-02",
-      "average": 636,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 675.0
-      },
-      "omv": {
-        "type": "100-benzin-e5",
-        "price": 721.0
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 720.0
-      }
-    },
     {
       "date": "2026-10-03",
       "average": 636,
@@ -977,6 +961,26 @@
     {
       "date": "2026-11-20",
       "average": 700,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 621.0
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 665.0
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 666.0
+      },
+      "auchan": {
+        "type": "100-benzin-e5",
+        "price": 645.0
+      }
+    },
+    {
+      "date": "2026-11-21",
+      "average": 585,
       "shell": {
         "type": "premium-benzin-e10",
         "price": 621.0
