@@ -1,27 +1,7 @@
 {
-  "text": "A Brent nyersolaj jegyzési ára november 23-án reggel 91,95–92,29 dollár/hordó körül alakult, ami az elmúlt egy hétben mintegy 4 százalékos, egy hónap alatt pedig több mint 16–20 százalékos esést jelent. Ezzel párhuzamosan a forint a dollárral szemben az elmúlt hetekben gyengült, és november eleji ~325–327 forintos szintjéről november 23-ra ~339 forint/dollár környékére mozdult el. A hazai kutakon a múlt heti (november 18-i és 20-i) csökkenések után a 95-ös benzin országos átlagára 583 forint/liter, a gázolajé pedig 695 forint/liter körül áll. Ezen a héten a lefelé húzó alacsonyabb olajár és a felfelé ható gyengébb forint egymás hatását részben kioltva óvatos, vegyes vagy enyhén csökkenő, illetve stagnáló mozgást hozhat a hazai árakban. A 95-ös benzin ára várhatóan 0 és 4 forint közötti mozgással, jellemzően 580–585 forint/liter sávban alakulhat a héten. A gázolaj esetében a szezonális fűtési és téli kereslet, valamint a magasabb dollárkurzus miatt kisebb a tér a további esésre, így ott 0–3 forintos elmozdulás (kb. 692–698 forint/liter sáv) a legvalószínűbb forgatókönyv. Ha a forint további gyengülése megáll és a Brent a 92 dollár alatti sávban marad, a hét közepén még egy kisebb, 2–3 forintos mérséklődés beleférhet mindkét terméknél. Ezzel szemben egy újabb érdemi forintgyengülés vagy finomítói árrés-emelkedés gyorsan megállíthatja az eddigi lejtmenetet. Összességében tehát a héten a múlt hétnél visszafogottabb, kiegyensúlyozottabb ármozgásra érdemes készülni a magyar töltőállomásokon. Üzemanyagár-változás– 2026-11-26 Csütörtökön tovább csökkentek az üzemanyagok országos átlagárai. A 95-ös benzin literenként 3 forinttal, a gázolaj pedig szintén 3 forinttal lett olcsóbb a szerdai árakhoz képest. Az elmúlt napokban mindkét üzemanyag ára folyamatosan mérséklődött, így a hét eleje óta a csökkenő tendencia továbbra is érvényesül. A Holtankoljak.hu friss adatai alapján jelenleg az alábbi országos átlagárakkal számolhatnak az autósok: 95-ös benzin: 577 Ft/liter Gázolaj: 688 Ft/liter",
-  "change": 0,
+  "text": "Csütörtökön tovább csökkentek az üzemanyagok országos átlagárai. A 95-ös benzin literenként 3 forinttal, a gázolaj pedig szintén 3 forinttal lett olcsóbb a szerdai árakhoz képest. Az elmúlt napokban mindkét üzemanyag ára folyamatosan mérséklődött, így a hét eleje óta a csökkenő tendencia továbbra is érvényesül. A Holtankoljak.hu friss adatai alapján jelenleg az alábbi országos átlagárakkal számolhatnak az autósok: 95-ös benzin: 577 Ft/liter Gázolaj: 688 Ft/liter",
+  "change": -6,
   "prices": [
-    {
-      "date": "2026-10-08",
-      "average": 642,
-      "shell": {
-        "type": "premium-benzin-e10",
-        "price": 681.0
-      },
-      "omv": {
-        "type": "100-benzin-e5",
-        "price": 727.0
-      },
-      "mol": {
-        "type": "100-benzin-e5",
-        "price": 726.0
-      },
-      "auchan": {
-        "type": "100-benzin-e5",
-        "price": 699.0
-      }
-    },
     {
       "date": "2026-10-09",
       "average": 642,
@@ -985,6 +965,26 @@
     {
       "date": "2026-11-26",
       "average": 583,
+      "shell": {
+        "type": "premium-benzin-e10",
+        "price": 616.0
+      },
+      "omv": {
+        "type": "100-benzin-e5",
+        "price": 660.0
+      },
+      "mol": {
+        "type": "100-benzin-e5",
+        "price": 661.0
+      },
+      "auchan": {
+        "type": "100-benzin-e5",
+        "price": 632.0
+      }
+    },
+    {
+      "date": "2026-11-27",
+      "average": 577,
       "shell": {
         "type": "premium-benzin-e10",
         "price": 616.0
