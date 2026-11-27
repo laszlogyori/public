@@ -1,5 +1,5 @@
 {
-  "text": "Csütörtökön tovább csökkentek az üzemanyagok országos átlagárai. A 95-ös benzin literenként 3 forinttal, a gázolaj pedig szintén 3 forinttal lett olcsóbb a szerdai árakhoz képest. Az elmúlt napokban mindkét üzemanyag ára folyamatosan mérséklődött, így a hét eleje óta a csökkenő tendencia továbbra is érvényesül. A Holtankoljak.hu friss adatai alapján jelenleg az alábbi országos átlagárakkal számolhatnak az autósok: 95-ös benzin: 577 Ft/liter Gázolaj: 688 Ft/liter",
+  "text": "Pénteken nem változtak az üzemanyagok országos átlagárai, így a benzin és a gázolaj ára is a csütörtöki szinten maradt. A hét utolsó napjára megállt az elmúlt napok árcsökkenése, mindkét üzemanyag esetében változatlan árakkal zárul a hét. A friss árösszesítés alapján jelenleg az alábbi országos átlagárakkal számolhatnak az autósok: 95-ös benzin: 577 Ft/liter Gázolaj: 688 Ft/liter",
   "change": -6,
   "prices": [
     {
